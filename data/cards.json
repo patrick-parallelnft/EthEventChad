@@ -1,0 +1,3266 @@
+{
+  "7": {
+    "name": "The Priming",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Universal_The-Priming-QR.jpg"
+  },
+  "8": {
+    "name": "Archivist's pride",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Archivists-pride-QR.jpg"
+  },
+  "9": {
+    "name": "Revitalizing Growth",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Revitalizing-Growth-QR.jpg"
+  },
+  "10": {
+    "name": "Artillery Volley",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Artillery-Volley-QR.jpg"
+  },
+  "11": {
+    "name": "Neutron Bomb",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Neutron-Bomb-QR.jpg"
+  },
+  "12": {
+    "name": "Orbital Strike",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Orbital-Strike-QR.jpg"
+  },
+  "13": {
+    "name": "Aurora Fungi",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Aurora-Fungi-QR.jpg"
+  },
+  "14": {
+    "name": "Kethtrexamine",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Kethtrexamine-QR.jpg"
+  },
+  "15": {
+    "name": "Graphene Batteries",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Graphene-Batteries-QR.jpg"
+  },
+  "16": {
+    "name": "Ashes to Ashes",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Shroud_Ashes-to-Ashes-QR.jpg"
+  },
+  "17": {
+    "name": "Recon",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Universal_Recon-QR.jpg"
+  },
+  "18": {
+    "name": "Synchronicity",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Synchronicity-QR.jpg"
+  },
+  "19": {
+    "name": "Gaffar's Peace Pipe",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Gaffars-Peace-Pipe-QR.jpg"
+  },
+  "20": {
+    "name": "Cytokinesis",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Cytokinesis-QR.jpg"
+  },
+  "27": {
+    "name": "Marcolian Parallel Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Concept-Art.jpg"
+  },
+  "28": {
+    "name": "Kathari Parallel Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Concept-Art.jpg"
+  },
+  "29": {
+    "name": "Earthen Parallel Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Concept-Art.jpg"
+  },
+  "30": {
+    "name": "Augencore Parallel Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Concept-Art.jpg"
+  },
+  "31": {
+    "name": "Shroud Parallel Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Shroud_Concept-Art.jpg"
+  },
+  "33": {
+    "name": "Group Parallel Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Parallels_Concept_Art_JGiSyjc.png"
+  },
+  "34": {
+    "name": "Augencore Mech Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Mech-Concept-Art.jpg"
+  },
+  "35": {
+    "name": "Marcolian Space Station Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Space-Station-Concept-Art.jpg"
+  },
+  "36": {
+    "name": "Augencore Parallel Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Collectable_Orb_Cover_JxbCu4K.gif"
+  },
+  "37": {
+    "name": "Earthen Parallel Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Collectable_Orb_Cover_sFyb7K0.gif"
+  },
+  "38": {
+    "name": "Kathari Parallel Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Collectable_Orb_Cover_0xjDreX.gif"
+  },
+  "39": {
+    "name": "Marcolian Parallel Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Collectable_Orb_Cover_itBIauQ.gif"
+  },
+  "40": {
+    "name": "Shroud Parallel Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Shroud_Collectable_Orb_Cover_ot3xXzw.gif"
+  },
+  "41": {
+    "name": "The First Son of Mars",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_The-First-Son-of-Mars-QR.jpg"
+  },
+  "42": {
+    "name": "Earthen Parallel Concept Art [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Concept-Art-SE.jpg"
+  },
+  "45": {
+    "name": "Parallel Masterpiece // Alpha // Recon",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Recon_Masterpiece.jpg"
+  },
+  "46": {
+    "name": "Parallel Masterpiece // Alpha // Revitalizing Growth",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Revitalizing-Growth_Masterpiece.jpg"
+  },
+  "47": {
+    "name": "Parallel Masterpiece // Alpha // Neutron Bomb",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Neutron-Bomb_Masterpiece.jpg"
+  },
+  "48": {
+    "name": "Parallel Masterpiece // Alpha // Ashes to Ashes",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ashes-to-Ashes_Masterpiece.jpg"
+  },
+  "49": {
+    "name": "Parallel Masterpiece // Alpha // Archivist's Pride",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Archivist-Pride_Masterpiece.jpg"
+  },
+  "50": {
+    "name": "Parallel Masterpiece // Alpha // Gaffar's Peace Pipe",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Gaffars-Peace-Pipe_Masterpiece.jpg"
+  },
+  "51": {
+    "name": "Parallel Masterpiece // Alpha // Genetic Correction",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Genetic-Correction_Masterpiece.jpg"
+  },
+  "52": {
+    "name": "Parallel Masterpiece // Alpha // The Priming",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-Priming.jpg"
+  },
+  "54": {
+    "name": "Parallel Masterpiece // Alpha // Synchronicity",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Synchronicity_Masterpiece.jpg"
+  },
+  "55": {
+    "name": "Parallel Masterpiece // Alpha // Kethtrexamine",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kethtrexamine_Masterpiece.jpg"
+  },
+  "56": {
+    "name": "Parallel Masterpiece // Alpha // Graphene Batteries",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Graphene-Batteries_Masterpiece.jpg"
+  },
+  "57": {
+    "name": "Parallel Masterpiece // Alpha // Orbital Strike",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Orbital-Strike_Masterpiece.jpg"
+  },
+  "58": {
+    "name": "Parallel Masterpiece // Alpha // Cytokinesis",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Cytokinesis_Masterpiece.jpg"
+  },
+  "59": {
+    "name": "Parallel Masterpiece // Alpha // Artillery Volley",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Artillery-Volley_Masterpiece.jpg"
+  },
+  "60": {
+    "name": "Parallel Masterpiece // Alpha // The First Son of Mars",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-First-Son-of-Mars_Masterpiece.jpg"
+  },
+  "61": {
+    "name": "Parallel Masterpiece // Alpha // Entropy's Reach",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Entropys-Reach_Masterpiece.jpg"
+  },
+  "62": {
+    "name": "Parallel Masterpiece // Alpha // Paradox",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Paradox_Masterpiece.jpg"
+  },
+  "63": {
+    "name": "Parallel Masterpiece // Alpha // Amperage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Amperage_Masterpiece.jpg"
+  },
+  "64": {
+    "name": "Archivist's Pride [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Archivists-pride-SE.jpg"
+  },
+  "65": {
+    "name": "Revitalizing Growth [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Revitalizing-Growth-SE.jpg"
+  },
+  "66": {
+    "name": "Artillery Volley [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Artillery-Volley-SE.jpg"
+  },
+  "67": {
+    "name": "Neutron Bomb [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Neutron-Bomb-SE.jpg"
+  },
+  "68": {
+    "name": "Orbital Strike [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Orbital_Strike_SE.png"
+  },
+  "69": {
+    "name": "Aurora Fungi [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Aurora_Fungi_SE.png"
+  },
+  "70": {
+    "name": "Kethtrexamine [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Kethtrexamine_SE.png"
+  },
+  "72": {
+    "name": "Ashes to Ashes [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Shroud_Ashes_to_Ashes_SE.png"
+  },
+  "73": {
+    "name": "Recon [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Universal_Recon_SE.png"
+  },
+  "74": {
+    "name": "Synchronicity [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Synchronicity_SE.png"
+  },
+  "76": {
+    "name": "Cytokinesis [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Cytokinesis_SE.png"
+  },
+  "78": {
+    "name": "Earthen Parallel Collectible Card Back [SE]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Orb_Se-1.gif"
+  },
+  "79": {
+    "name": "Kathari Parallel Collectible Card Back [SE]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Orb_Se-1.gif"
+  },
+  "80": {
+    "name": "Marcolian Parallel Collectible Card Back [SE]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Orb_Se-1.gif"
+  },
+  "81": {
+    "name": "Shroud Parallel Collectible Card Back [SE]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Shroud_Orb_Se-1.gif"
+  },
+  "82": {
+    "name": "The First Son of Mars [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_The-First-Son-of-Mars-SE.jpg"
+  },
+  "85": {
+    "name": "Augencore Parallel Collectible Card Back [SE]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Orb_Se-1.gif"
+  },
+  "86": {
+    "name": "Gaffar's Peace Pipe [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Gaffars-Peace-Pipe-SE.jpg"
+  },
+  "87": {
+    "name": "Prime Key",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Asset_Prime-Key_iR0oyGG.jpg"
+  },
+  "88": {
+    "name": "Graphene Batteries [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Graphene-Batteries-SE.jpg"
+  },
+  "10089": {
+    "name": "Rug Poll Day",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Universal_Rug_Poll_Day_QR.png"
+  },
+  "10090": {
+    "name": "Rug Poll Night",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Universal_Rug_Poll_Night_QR_1hsRUMs.png"
+  },
+  "10091": {
+    "name": "Parallel Masterpiece // Alpha // Rug Poll",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Rug_Poll_Day_Masterpiece.png"
+  },
+  "10092": {
+    "name": "Catalyst Drive",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Catalyst-Drive.jpg"
+  },
+  "10097": {
+    "name": "Parallel Masterpiece // Alpha // Lancer Tank",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Lancer_Tank_Masterpiece.png"
+  },
+  "10099": {
+    "name": "Parallel Masterpiece // Alpha // Demolecularize",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Demolecularize_Masterpiece.jpg"
+  },
+  "10101": {
+    "name": "Parallel Masterpiece // Alpha // Void Crystal",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Void-Crystal-On_Masterpiece.jpg"
+  },
+  "10104": {
+    "name": "Parallel Masterpiece // Alpha // Malachite Shield",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Malachite-Shield_Masterpiece.jpg"
+  },
+  "10105": {
+    "name": "Malachite Shield",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Malachite-Shield.jpg"
+  },
+  "10106": {
+    "name": "Malachite Shield [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Malachite-Shield-SE.jpg"
+  },
+  "10107": {
+    "name": "Parallel Masterpiece // Alpha // Marcolian Bannerman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian-Bannerman_Masterpiece.jpg"
+  },
+  "10108": {
+    "name": "Marcolian Bannerman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Bannerman.jpg"
+  },
+  "10109": {
+    "name": "Marcolian Bannerman [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Bannerman-SE.jpg"
+  },
+  "10110": {
+    "name": "Parallel Masterpiece // Alpha // Soleia, Disciple of Gaffar",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Soleia-Disciple-of-Gaffar_Masterpiece.jpg"
+  },
+  "10111": {
+    "name": "Soleia, Disciple of Gaffar",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Soleia-Disciple-of-Gaffar.jpg"
+  },
+  "10112": {
+    "name": "Soleia, Disciple of Gaffar [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Soleia-Disciple-of-Gaffar-SE.jpg"
+  },
+  "10113": {
+    "name": "Parallel Masterpiece // Alpha // Reclamator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reclamator_Masterpiece.jpg"
+  },
+  "10114": {
+    "name": "Reclamator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reclamator.jpg"
+  },
+  "10115": {
+    "name": "Reclamator [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reclamator-SE.jpg"
+  },
+  "10116": {
+    "name": "Parallel Masterpiece // Alpha // Enthalpy's Grasp",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Enthalpys-Grasp_Masterpiece.jpg"
+  },
+  "10117": {
+    "name": "Enthalpy's Grasp",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Enthalpys-Grasp.jpg"
+  },
+  "10119": {
+    "name": "Lancer Tank",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Lancer-Tank.jpg"
+  },
+  "10120": {
+    "name": "Lancer Tank [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Lancer-Tank-SE_wfzaCD0.jpg"
+  },
+  "10121": {
+    "name": "Parallel Masterpiece // Alpha // Gaia's Call",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Gaias-Call-Day_Masterpiece.jpg"
+  },
+  "10124": {
+    "name": "Parallel Masterpiece // Alpha // Antius's Forecast",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Antiuss-Forecast_Masterpiece.jpg"
+  },
+  "10125": {
+    "name": "Parallel Masterpiece // Alpha // Tabula Rasa",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Tablula-Rasa_Masterpiece.jpg"
+  },
+  "10126": {
+    "name": "Tabula Rasa [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Tabula-Rasa-SE.jpg"
+  },
+  "10127": {
+    "name": "Parallel Masterpiece // Alpha // Warden",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Warden-Day-Masterpiece.jpg"
+  },
+  "10132": {
+    "name": "Parallel Masterpiece // Alpha // Solar Grenade",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Solar-Grenade_Masterpiece.jpg"
+  },
+  "10133": {
+    "name": "Solar Grenade",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Solar-Grenade.jpg"
+  },
+  "10134": {
+    "name": "Solar Grenade [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Solar-Grenade-SE.jpg"
+  },
+  "10135": {
+    "name": "Parallel Masterpiece // Alpha // Strength of Mars",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Strenght-of-Mars_Masterpiece.jpg"
+  },
+  "10136": {
+    "name": "Strength of Mars",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Strength-of-Mars.jpg"
+  },
+  "10137": {
+    "name": "Strength of Mars [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Strength-of-Mars-SE.jpg"
+  },
+  "10138": {
+    "name": "Parallel Masterpiece // Alpha // Supply Drop",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Supply-Drop_Masterpiece.jpg"
+  },
+  "10139": {
+    "name": "Supply Drop",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Supply-Drop.jpg"
+  },
+  "10140": {
+    "name": "Supply Drop [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Supply-Drop-SE.jpg"
+  },
+  "10141": {
+    "name": "Demolecularize",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Demolecularize.jpg"
+  },
+  "10142": {
+    "name": "Demolecularize [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Demolecularize-SE.jpg"
+  },
+  "10143": {
+    "name": "Genetic Correction",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Genetic-Correction.jpg"
+  },
+  "10144": {
+    "name": "Genetic Correction [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Genetic-Correction-SE.jpg"
+  },
+  "10145": {
+    "name": "Parallel Masterpiece // Alpha // Repurposed Hardware",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Repurpose-Hardware-Noon-Masterpiece.jpg"
+  },
+  "10150": {
+    "name": "Paradox",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Paradox.jpg"
+  },
+  "10151": {
+    "name": "Paradox [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Paradox-SE.jpg"
+  },
+  "10152": {
+    "name": "Enthalpy's Grasp [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Enthalpy_s-Grasp-SE.jpg"
+  },
+  "10153": {
+    "name": "Amperage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Amperage.jpg"
+  },
+  "10154": {
+    "name": "Amperage [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Amperage-SE.jpg"
+  },
+  "10156": {
+    "name": "Entropy's Reach [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Entropy_s-Reach-SE.jpg"
+  },
+  "10157": {
+    "name": "Entropy's Reach",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Entropys-Reach.jpg"
+  },
+  "10158": {
+    "name": "Parallel Masterpiece // Alpha // Reliant Gamma",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reliant-Gamma_Masterpiece.jpg"
+  },
+  "10159": {
+    "name": "Reliant Gamma [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reliant-Gamma-SE.jpg"
+  },
+  "10160": {
+    "name": "Parallel Masterpiece // Alpha // Foundry Technician",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Foundry-Technician_Masterpiece.jpg"
+  },
+  "10161": {
+    "name": "Foundry Technician [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Foundry-Technician-SE.jpg"
+  },
+  "10162": {
+    "name": "Parallel Masterpiece // Alpha // The Tree of Nehemiah",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-Tree-of-Nehemiah-Night_Masterpiece.jpg"
+  },
+  "10165": {
+    "name": "Parallel Masterpiece // Alpha // Pocket Dimension",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Pocket-Dimension-Day_Masterpiece.jpg"
+  },
+  "10168": {
+    "name": "Parallel Masterpiece // Alpha // Life Well",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Life-Well_Masterpiece.jpg"
+  },
+  "10169": {
+    "name": "Life Well",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Life-Well.jpg"
+  },
+  "10170": {
+    "name": "Life Well [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Life-Well-SE.jpg"
+  },
+  "10171": {
+    "name": "Parallel Masterpiece // Alpha // Manipulation Ray",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Manipulation-Ray-Masterpiece.jpg"
+  },
+  "10172": {
+    "name": "Maniupulation Ray",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Manipulation-Ray.jpg"
+  },
+  "10173": {
+    "name": "Manipulation Ray [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Manipulation-Ray-SE.jpg"
+  },
+  "10174": {
+    "name": "Parallel Masterpiece // Alpha // Master Poisoner",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Master-Poisoner_Masterpiece.jpg"
+  },
+  "10175": {
+    "name": "Master Poisoner",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Master-Poisoner.jpg"
+  },
+  "10176": {
+    "name": "Master Poisoner [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Master-Poisoner-SE.jpg"
+  },
+  "10177": {
+    "name": "Parallel Masterpiece // Alpha // Reality Manipulator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reality-Manipulator_Masterpiece.jpg"
+  },
+  "10178": {
+    "name": "Reality Manipulator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reality-Manipulator.jpg"
+  },
+  "10179": {
+    "name": "Reality Manipulator [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reality-Manipulator-SE.jpg"
+  },
+  "10180": {
+    "name": "Parallel Masterpiece // Alpha // Nucleotic Synthesizer",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Nucleotic-Syntesizer_Masterpiece.jpg"
+  },
+  "10181": {
+    "name": "Nucleotic Synthesizer",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Nucleotic-Synthesizer.jpg"
+  },
+  "10182": {
+    "name": "Nucleotic Synthesizer [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Nucleotic-Synthesizer-SE.jpg"
+  },
+  "10183": {
+    "name": "Parallel Masterpiece // Alpha // Ocular Implant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ocular-Implant_Masterpiece.jpg"
+  },
+  "10184": {
+    "name": "Ocular Implant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ocular-Implant.jpg"
+  },
+  "10185": {
+    "name": "Ocular Implant [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ocular-Implant-SE.jpg"
+  },
+  "10186": {
+    "name": "Parallel Masterpiece // Alpha // Earthbreaker Cannon",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthbreaker_Masterpiece.jpg"
+  },
+  "10187": {
+    "name": "Earthbreaker Cannon",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earth-Breaker-Cannon.jpg"
+  },
+  "10189": {
+    "name": "Earthbreaker Cannon [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earth-Breaker-Cannon-SE.jpg"
+  },
+  "10190": {
+    "name": "Parallel Masterpiece // Alpha // Change of Heart",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Change-of-Heart-Night-Masterpiece.jpg"
+  },
+  "10192": {
+    "name": "Change of Heart",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Change-of-Heart-Night.jpg"
+  },
+  "10193": {
+    "name": "Change of Heart",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Change-of-Heart-Day.jpg"
+  },
+  "10194": {
+    "name": "Parallel Masterpiece // Alpha // Collateral Damage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Collateral-Damage-Noon-Masterpiece.jpg"
+  },
+  "10199": {
+    "name": "Collateral Damage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Collateral-Damage-Noon.jpg"
+  },
+  "10200": {
+    "name": "Collateral Damage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Collateral-Damage-Night.jpg"
+  },
+  "10201": {
+    "name": "Repurposed Hardware",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Repurposed-Hardware-Day.jpg"
+  },
+  "10202": {
+    "name": "Repurposed Hardware",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Repurposed-Hardware-Dusk.jpg"
+  },
+  "10205": {
+    "name": "Parallel Masterpiece // Alpha // Mechanize",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Mechanize_Masterpiece.jpg"
+  },
+  "10206": {
+    "name": "Mechanize [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Mechanize-SE.jpg"
+  },
+  "10207": {
+    "name": "Mechanize",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Mechanize.jpg"
+  },
+  "10208": {
+    "name": "Antius's Forecast [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Antiuss_Forecast.png"
+  },
+  "10210": {
+    "name": "Tabula Rasa",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Tabula-Rasa.jpg"
+  },
+  "10212": {
+    "name": "Foundry Technician",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Foundry-Technician.jpg"
+  },
+  "10213": {
+    "name": "Reliant Gamma",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Reliant-Gamma.jpg"
+  },
+  "10214": {
+    "name": "Change of Heart Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Change-of-Heart-AC.jpg"
+  },
+  "10215": {
+    "name": "Foundry Technician Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Foundry-Technician-AC.jpg"
+  },
+  "10216": {
+    "name": "Gaffar, Arbiter of Earth Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Gaffar-Arbiter-of-Earth-AC.jpg"
+  },
+  "10217": {
+    "name": "Malachite Shield Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Malachite-Shield-AC.jpg"
+  },
+  "10218": {
+    "name": "New Dawn Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/New-Dawn-Concept-AC.jpg"
+  },
+  "10219": {
+    "name": "Pocket Dimension 01 Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Pocket-Dimension-01-AC.jpg"
+  },
+  "10220": {
+    "name": "Pocket Dimension 02 Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Pocket-Dimension-02-AC.jpg"
+  },
+  "10221": {
+    "name": "Soleia, Disciple of Gaffar Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Soleia-Disciple-of-Gaffar-AC.jpg"
+  },
+  "10222": {
+    "name": "MEV Stone Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Unknown-Origin-MEV-Stone-AC.jpg"
+  },
+  "10223": {
+    "name": "New Dawn Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-New-Dawn-AC.jpg"
+  },
+  "10224": {
+    "name": "Augencore Logo Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Augencore_Logo_Collectible_Card_Back.gif"
+  },
+  "10225": {
+    "name": "Shroud Clear Void Crystal Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Clear_Void_Crystal_Collectible_Card_Back_NNbGqFe.gif"
+  },
+  "10226": {
+    "name": "Earthen Logo Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Earthen_Logo_Collectible_Card_Back.gif"
+  },
+  "10227": {
+    "name": "Kathari Logo Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Kathari_Logo_Collectible_Card_Back.gif"
+  },
+  "10228": {
+    "name": "Shroud Logo Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Shroud_Logo_Collectible_Card_Back.gif"
+  },
+  "10229": {
+    "name": "Marcolian Logo Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Marcolian_Logo_Collectible_Card_Back.gif"
+  },
+  "10230": {
+    "name": "Warden Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Warden_Collectible_Card_Back_PSSeKkn.gif"
+  },
+  "10234": {
+    "name": "Parallel Masterpiece // Alpha // Instant Replicator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Instant-Replicator_Masterpiece.jpg"
+  },
+  "10235": {
+    "name": "Instant Replicator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Instant-Replicator.jpg"
+  },
+  "10236": {
+    "name": "Instant Replicator [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Instant-Replicator-SE.jpg"
+  },
+  "10237": {
+    "name": "Antius's Forecast",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Antiuss-Forecast.jpg"
+  },
+  "10238": {
+    "name": "Pocket Dimension [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Pocket-Dimension-Day-SE.jpg"
+  },
+  "10239": {
+    "name": "Pocket Dimension [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Pocket-Dimension-Night-SE.jpg"
+  },
+  "10240": {
+    "name": "Pocket Dimension",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Pocket-Dimension-Day.jpg"
+  },
+  "10241": {
+    "name": "Pocket Dimension",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Pocket-Dimension-Night.jpg"
+  },
+  "10242": {
+    "name": "The Tree of Nehemiah",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-Tree-of-Nehemiah-Day.jpg"
+  },
+  "10243": {
+    "name": "The Tree of Nehemiah",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-Tree-of-Nehemiah-Night.jpg"
+  },
+  "10244": {
+    "name": "The Tree of Nehemiah [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-Tree-of-Nehemiah-Day-SE.jpg"
+  },
+  "10245": {
+    "name": "The Tree of Nehemiah [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/The-Tree-of-Nehemiah-Night-SE.jpg"
+  },
+  "10246": {
+    "name": "Gaia's Call",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Gaias-Call-Day.jpg"
+  },
+  "10247": {
+    "name": "Gaia's Call",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Gaias-Call-Night.jpg"
+  },
+  "10248": {
+    "name": "Gaia's Call [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Gaia_s-Call-Day-SE.jpg"
+  },
+  "10249": {
+    "name": "Gaia's Call [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Gaia_s-Call-Night-SE.jpg"
+  },
+  "10250": {
+    "name": "Warden",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Warden-Day.jpg"
+  },
+  "10251": {
+    "name": "Warden",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Warden-Night.jpg"
+  },
+  "10252": {
+    "name": "Warden [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Warden-Day-SE.jpg"
+  },
+  "10253": {
+    "name": "Void Crystal",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Void-Crystal-On.jpg"
+  },
+  "10254": {
+    "name": "Void Crystal",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Void-Crystal-Off.jpg"
+  },
+  "10255": {
+    "name": "Void Crystal [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Void-Crystal-On-SE.jpg"
+  },
+  "10256": {
+    "name": "Void Crystal [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Void-Crystal-Off-SE.jpg"
+  },
+  "10258": {
+    "name": "Eye of Galli",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Eye-of-Galli-Day.jpg"
+  },
+  "10259": {
+    "name": "Eye of Galli",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Eye-of-Galli-Sunset.jpg"
+  },
+  "10260": {
+    "name": "Eye of Galli [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Eye-of-Galli-Day-SE.jpg"
+  },
+  "10261": {
+    "name": "Parallel Masterpiece // Alpha // Cost of Creation",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Cost-of-Creation_Masterpiece.jpg"
+  },
+  "10262": {
+    "name": "Cost of Creation",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Cost-of-Creation.jpg"
+  },
+  "10263": {
+    "name": "Cost of Creation [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Cost-of-Creation-SE.jpg"
+  },
+  "10264": {
+    "name": "Parallel Masterpiece // Alpha // Trade Secrets",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Trade-Secrets_Mastrpiece.jpg"
+  },
+  "10265": {
+    "name": "Trade Secrets",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Trade-Secrets.jpg"
+  },
+  "10266": {
+    "name": "Trade Secrets [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Trade-Secrets-SE.jpg"
+  },
+  "10267": {
+    "name": "Parallel Masterpiece // Alpha // G.R.A.U.L",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/G.R.A.U.L.jpg"
+  },
+  "10268": {
+    "name": "G.R.A.U.L",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/G.R.A.U_LU2NB4x.jpg"
+  },
+  "10270": {
+    "name": "Parallel Masterpiece // Alpha // Seeing Triple",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Seeing-Triple-Masterpiece.jpg"
+  },
+  "10271": {
+    "name": "Seeing Triple",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Seeing-Triple.jpg"
+  },
+  "10273": {
+    "name": "Parallel Masterpiece // Alpha // Star Chart",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Star-Chart_Masterpiece.jpg"
+  },
+  "10275": {
+    "name": "Star Chart",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Star-Chart.jpg"
+  },
+  "10276": {
+    "name": "Star Chart [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Star-Chart-SE.jpg"
+  },
+  "10277": {
+    "name": "Parallel Masterpiece // Alpha // Backup Copy",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Back-Up-Copy_Masterpiece.jpg"
+  },
+  "10279": {
+    "name": "Backup Copy [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Back-up-Copy-SE.jpg"
+  },
+  "10280": {
+    "name": "Parallel Masterpiece // Alpha // Smuggled Supplies",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Smuggled-Supplies_Masterpiece.jpg"
+  },
+  "10284": {
+    "name": "Warden [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Warden-Night-SE.jpg"
+  },
+  "10285": {
+    "name": "Eye of Galli [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Eye-of-Galli-Sunset-SE.jpg"
+  },
+  "10286": {
+    "name": "Collateral Damage [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Collateral_Damage_SE_-_Day_BvlKeFz.png"
+  },
+  "10287": {
+    "name": "Collateral Damage [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Collateral_Damage_SE_-_Night_E292cKS.png"
+  },
+  "10288": {
+    "name": "Change of Heart [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Change_of_Heart_SE_-_Day.png"
+  },
+  "10289": {
+    "name": "Change of Heart [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Change_of_Heart_SE_-_Night.png"
+  },
+  "10290": {
+    "name": "Repurposed Hardware [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Repurposed_Hardware_SE_-_Day.jpg"
+  },
+  "10291": {
+    "name": "Repurposed Hardware [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Repurposed_Hardware_SE_-_Night.jpg"
+  },
+  "10292": {
+    "name": "Strength of Mars [PL]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Strenght-of-Mars-PL.jpg"
+  },
+  "10293": {
+    "name": "Eye of Galli [PL]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Eye-of-Galli-Day-PL.jpg"
+  },
+  "10294": {
+    "name": "Eye of Galli [PL]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Eye-of-Galli-Sunset-PL.jpg"
+  },
+  "10295": {
+    "name": "Seeing Triple [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Seeing-Triple-SE.jpg"
+  },
+  "10296": {
+    "name": "Smuggled Supplies [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Smuggled-Supplies-SE.jpg"
+  },
+  "10297": {
+    "name": "G.R.A.U.L [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/G.R.A.U.jpg"
+  },
+  "10298": {
+    "name": "Backup Copy",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Back-up-Copy.jpg"
+  },
+  "10299": {
+    "name": "Smuggled Supplies",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/smuggled-supplies.png"
+  },
+  "10300": {
+    "name": "Parallel Masterpiece // Alpha // Eye of Galli",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Eye-of-Galli-Sunset_Masterpiece.jpg"
+  },
+  "10301": {
+    "name": "Rug Poll [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/4E5CE697-8C61-454C-922F-E1BEBE918C5C.png"
+  },
+  "10302": {
+    "name": "Rug Poll [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/1419B3F8-D9E2-45AB-8DAB-A6D26A69F14F.png"
+  },
+  "10304": {
+    "name": "Rug Pull Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/9F0A7EFD-DDA3-4B88-A74D-C715C0E38E8F.png"
+  },
+  "10305": {
+    "name": "Rug Pull Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/380BC636-B57E-42A5-8289-EB3AD403D81F.png"
+  },
+  "10306": {
+    "name": "Galaxy Key",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/6BD8AB8C-80AE-4E49-951E-71D90CF28A0B.png"
+  },
+  "10307": {
+    "name": "Enhanced Blueprints",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_EnhancedBlueprints_Non_Rar_Fe_Img.png"
+  },
+  "10308": {
+    "name": "Enhanced Blueprints [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_EnhancedBlueprints_Non_Rar_Se_Img.png"
+  },
+  "10309": {
+    "name": "Jury-Rigged Juggernaut",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_JuryRiggedJuggernaut_Non_Lgn_Fe_Img.png"
+  },
+  "10310": {
+    "name": "Jury-Rigged Juggernaut [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_JuryRiggedJuggernaut_Non_Lgn_Se_Img.png"
+  },
+  "10312": {
+    "name": "Kill Switch [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_KillSwitch_Non_Cmn_Se_Img.png"
+  },
+  "10313": {
+    "name": "Kill Switch",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_KillSwitch_Non_Cmn_Fe_Img.png"
+  },
+  "10314": {
+    "name": "THUNDR-01 Munitions",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_Thundr001Munitions_Non_Ucm_Fe_Img.png"
+  },
+  "10315": {
+    "name": "THUNDR-01 Munitions [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_Thundr001Munitions_Non_Ucm_Se_Img.png"
+  },
+  "10316": {
+    "name": "Doctor's Assistant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_DoctorsAssistant_Non_Cmn_Fe_Img.png"
+  },
+  "10317": {
+    "name": "Doctor's Assistant [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_DoctorsAssistant_Non_Cmn_Se_Img.png"
+  },
+  "10318": {
+    "name": "Kamuy Protector",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_KamuyProtector_Non_Ucm_Fe_Img.png"
+  },
+  "10319": {
+    "name": "Kamuy Protector [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_KamuyProtector_Non_Ucm_Se_Img.png"
+  },
+  "10320": {
+    "name": "Cleanse the Earth",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_CleanseTheEarth_Non_Rar_Fe_Img.png"
+  },
+  "10321": {
+    "name": "Cleanse the Earth [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_CleanseTheEarth_Non_Rar_Se_Img.png"
+  },
+  "10322": {
+    "name": "Hydrolist Chamber",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_HydrolistChamber_Non_Cmn_Fe_Img.png"
+  },
+  "10323": {
+    "name": "Hydrolist Chamber [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_HydrolistChamber_Non_Cmn_Se_Img.png"
+  },
+  "10324": {
+    "name": "Maritus, Aetian Recombinant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_MaritusAetianRecombinant_Non_Lgn_Fe_Img.png"
+  },
+  "10325": {
+    "name": "Maritus, Aetian Recombinant [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_MaritusAetianRecombinant_Non_Lgn_Se_Img.png"
+  },
+  "10326": {
+    "name": "Unnatural Selection",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_UnnaturalSelection_Non_Ucm_Fe_Img.png"
+  },
+  "10327": {
+    "name": "Unnatural Selection [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_UnnaturalSelection_Non_Ucm_Se_Img.png"
+  },
+  "10328": {
+    "name": "Claymore Artillery Gun",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_ClaymoreArtilleryGun_Non_Ucm_Fe_Img.png"
+  },
+  "10329": {
+    "name": "Claymore Artillery Gun [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_ClaymoreArtilleryGun_Non_Ucm_Se_Img.png"
+  },
+  "10330": {
+    "name": "Interrogation Tools",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_InterrogationTools_Non_Cmn_Fe_Img.png"
+  },
+  "10331": {
+    "name": "Interrogation Tools [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_InterrogationTools_Non_Cmn_Se_Img.png"
+  },
+  "10332": {
+    "name": "Ruthless Sergeant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_RuthlessSergeant_Non_Ucm_Fe_Img.png"
+  },
+  "10333": {
+    "name": "Ruthless Sergeant [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_RuthlessSergeant_Non_Ucm_Se_Img.png"
+  },
+  "10334": {
+    "name": "Trigger-happy Trooper",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_TriggerHappyTrooper_Non_Ucm_Fe_Img.png"
+  },
+  "10335": {
+    "name": "Trigger-happy Trooper [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_TriggerHappyTrooper_Non_Ucm_Se_Img.png"
+  },
+  "10336": {
+    "name": "Unstable Drone",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_UnstableDrone_Non_Cmn_Fe_Img.png"
+  },
+  "10337": {
+    "name": "Unstable Drone [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_UnstableDrone_Non_Cmn_Se_Img.png"
+  },
+  "10338": {
+    "name": "Dark Allure",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_DarkAllure_Non_Ucm_Fe_Img.png"
+  },
+  "10339": {
+    "name": "Dark Allure [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_DarkAllure_Non_Ucm_Se_Img.png"
+  },
+  "10340": {
+    "name": "Fanatical Crewman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_FanaticalCrewman_Non_Cmn_Fe_Img.png"
+  },
+  "10341": {
+    "name": "Fanatical Crewman [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_FanaticalCrewman_Non_Cmn_Se_Img.png"
+  },
+  "10342": {
+    "name": "Honored Steward",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_HonoredSteward_Non_Cmn_Fe_Img.png"
+  },
+  "10343": {
+    "name": "Honored Steward [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_HonoredSteward_Non_Cmn_Se_Img.png"
+  },
+  "10344": {
+    "name": "Singularity Steward",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SingularitySteward_Non_Cmn_Fe_Img.png"
+  },
+  "10345": {
+    "name": "Singularity Steward [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SingularitySteward_Non_Cmn_Se_Img.png"
+  },
+  "10346": {
+    "name": "Spectre Attack Craft",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SpectreAttackCraft_Non_Rar_Fe_Img.png"
+  },
+  "10347": {
+    "name": "Spectre Attack Craft [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SpectreAttackCraft_Non_Rar_Se_Img.png"
+  },
+  "10348": {
+    "name": "Spider Drone",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SpiderDrone_Non_Ucm_Fe_Img.png"
+  },
+  "10349": {
+    "name": "Spider Drone [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SpiderDrone_Non_Ucm_Se_Img.png"
+  },
+  "10350": {
+    "name": "Annihilate",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_Annihilate_Non_Rar_Fe_Img.png"
+  },
+  "10351": {
+    "name": "Annihilate [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_Annihilate_Non_Rar_Se_Img.png"
+  },
+  "10354": {
+    "name": "Life Stream",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_LifeStream_Non_Cmn_Fe_Img.png"
+  },
+  "10355": {
+    "name": "Life Stream [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_LifeStream_Non_Cmn_Se_Img.png"
+  },
+  "10356": {
+    "name": "Scanner Probe",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_ScannerProbe_Non_Lgn_Fe_Img.png"
+  },
+  "10357": {
+    "name": "Scanner Probe [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_ScannerProbe_Non_Lgn_Se_Img.png"
+  },
+  "10359": {
+    "name": "Tome of Aetio",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_TomeOfAetio_Day_Cmn_Fe_Img.png"
+  },
+  "10360": {
+    "name": "Tome of Aetio [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_TomeOfAetio_Day_Cmn_Se_Img.png"
+  },
+  "10361": {
+    "name": "Tome of Aetio",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_TomeOfAetio_Ngt_Cmn_Fe_Img.png"
+  },
+  "10362": {
+    "name": "Tome of Aetio [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_TomeOfAetio_Ngt_Cmn_Se_Img.png"
+  },
+  "10363": {
+    "name": "Memento of the Fallen",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MementoOfTheFallen_Blu_Lgn_Fe_Img.png"
+  },
+  "10364": {
+    "name": "Memento of the Fallen [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MementoOfTheFallen_Blu_Lgn_Se_Img.png"
+  },
+  "10365": {
+    "name": "Memento of the Fallen",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MementoOfTheFallen_Org_Lgn_Fe_Img.png"
+  },
+  "10366": {
+    "name": "Memento of the Fallen [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MementoOfTheFallen_Org_Lgn_Se_Img.png"
+  },
+  "10367": {
+    "name": "Scanner Array",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_ScannerArray_Ear_Cmn_Fe_Img.png"
+  },
+  "10368": {
+    "name": "Scanner Array [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_ScannerArray_Ear_Cmn_Se_Img.png"
+  },
+  "10369": {
+    "name": "Scanner Array",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_ScannerArray_Mrs_Cmn_Fe_Img.png"
+  },
+  "10370": {
+    "name": "Scanner Array [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_ScannerArray_Mrs_Cmn_Se_Img.png"
+  },
+  "10371": {
+    "name": "Paradigm Shift",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_ParadigmShift_Day_Cmn_Fe_Img.png"
+  },
+  "10372": {
+    "name": "Paradigm Shift",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_ParadigmShift_Ngt_Cmn_Fe_Img.png"
+  },
+  "10374": {
+    "name": "Paradigm Shift [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_ParadigmShift_Day_Cmn_Se_Img.png"
+  },
+  "10375": {
+    "name": "Paradigm Shift [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_ParadigmShift_Ngt_Cmn_Se_Img.png"
+  },
+  "10376": {
+    "name": "PARALLEL MASTERPIECE // ALPHA // PARADIGM SHIFT",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_ParadigmShift_Non_Prm_Mp_Img.png"
+  },
+  "10378": {
+    "name": "The Staff of Shoshanna",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_TheStaffOfShoshanna_Non_Ucm_Fe_Img.png"
+  },
+  "10379": {
+    "name": "The Staff of Shoshanna [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_TheStaffOfShoshanna_Non_Ucm_Se_Img.png"
+  },
+  "10384": {
+    "name": "EMP Shockwave",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_EmpShockwave_Non_Ucm_Fe_Img.png"
+  },
+  "10385": {
+    "name": "EMP Shockwave [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_EmpShockwave_Non_Ucm_Se_Img.png"
+  },
+  "10388": {
+    "name": "Seer's Stone",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_SeersStone_Non_Rar_Fe_Img.png"
+  },
+  "10389": {
+    "name": "Seer's Stone [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_SeersStone_Non_Rar_Se_Img.png"
+  },
+  "10391": {
+    "name": "Infused Core",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_InfusedCore_Non_Rar_Fe_Img.png"
+  },
+  "10392": {
+    "name": "Infused Core [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_InfusedCore_Non_Rar_Se_Img.png"
+  },
+  "10393": {
+    "name": "Unfair Advantage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_UnfairAdvantage_Non_Ucm_Fe_Img.png"
+  },
+  "10394": {
+    "name": "Unfair Advantage [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_UnfairAdvantage_Non_Ucm_Se_Img.png"
+  },
+  "10395": {
+    "name": "Magna, Tempest's Will",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_MagnaTempestsWill_Non_Lgn_Fe_Img.png"
+  },
+  "10396": {
+    "name": "Magna, Tempest's Will [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_MagnaTempestsWill_Non_Lgn_Se_Img.png"
+  },
+  "10397": {
+    "name": "Mantis Corsair",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MantisCorsair_Non_Cmn_Fe_Img.png"
+  },
+  "10398": {
+    "name": "Mantis Corsair [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MantisCorsair_Non_Cmn_Se_Img.png"
+  },
+  "10399": {
+    "name": "Parallel Masterpiece // Alpha // Enhanced Blueprints",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_EnhancedBlueprints_Non_Prm_Mp_Img.png"
+  },
+  "10400": {
+    "name": "Parallel Masterpiece // Alpha // Jury-Rigged Juggernaut",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_JuryRiggedJuggernaut_Non_Prm_Mp_Img.png"
+  },
+  "10402": {
+    "name": "Parallel Masterpiece // Alpha // Kill Switch",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_KillSwitch_Non_Prm_Mp_Img.png"
+  },
+  "10403": {
+    "name": "Parallel Masterpiece // Alpha // Scanner Array",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_ScannerArray_Non_Prm_Mp_Img.png"
+  },
+  "10404": {
+    "name": "Parallel Masterpiece // Alpha // THUNDR-01 Munitions",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_Thundr001Munitions_Non_Prm_Mp_Img.png"
+  },
+  "10405": {
+    "name": "Parallel Masterpiece // Alpha // Aurora Fungi",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_AuroraFungi_Non_Prm_Mp_Img.png"
+  },
+  "10406": {
+    "name": "Parallel Masterpiece // Alpha // Cleanse the Earth",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_CleanseTheEarth_Non_Prm_Mp_Img.png"
+  },
+  "10407": {
+    "name": "Parallel Masterpiece // Alpha // Doctor's Assistant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_DoctorsAssistant_Non_Prm_Mp_Img.png"
+  },
+  "10408": {
+    "name": "Parallel Masterpiece // Alpha // Kamuy Protector",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_KamuyProtector_Non_Prm_Mp_Img.png"
+  },
+  "10410": {
+    "name": "Parallel Masterpiece // Alpha // Hydrolist Chamber",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_HydrolistChamber_Non_Prm_Mp_Img.png"
+  },
+  "10411": {
+    "name": "Parallel Masterpiece // Alpha // Magna, Tempest's Will",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_MagnaTempestsWill_Non_Prm_Mp_Img.png"
+  },
+  "10412": {
+    "name": "Parallel Masterpiece // Alpha // Maritus, Aetian Recombinant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_MaritusAetianRecombinant_Non_Prm_Mp_Img.png"
+  },
+  "10413": {
+    "name": "Parallel Masterpiece // Alpha // Tome of Aetio",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_TomeOfAetio_Non_Prm_Mp_Img.png"
+  },
+  "10414": {
+    "name": "Parallel Masterpiece // Alpha // Unnatural Selection",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_UnnaturalSelection_Non_Prm_Mp_Img.png"
+  },
+  "10415": {
+    "name": "Parallel Masterpiece // Alpha // Claymore Artillery Gun",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_ClaymoreArtilleryGun_Non_Prm_Mp_Img.png"
+  },
+  "10416": {
+    "name": "Parallel Masterpiece // Alpha // Interrogation Tools",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_InterrogationTools_Non_Prm_Mp_Img.png"
+  },
+  "10417": {
+    "name": "Parallel Masterpiece // Alpha // Ruthless Sergeant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_RuthlessSergeant_Non_Prm_Mp_Img.png"
+  },
+  "10418": {
+    "name": "Parallel Masterpiece // Alpha // Trigger-happy Trooper",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_TriggerHappyTrooper_Non_Prm_Mp_Img.png"
+  },
+  "10419": {
+    "name": "Parallel Masterpiece // Alpha // Unstable Drone",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Mcl_UnstableDrone_Non_Prm_Mp_Img.png"
+  },
+  "10420": {
+    "name": "Parallel Masterpiece // Alpha // Dark Allure",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_DarkAllure_Non_Prm_Mp_Img.png"
+  },
+  "10421": {
+    "name": "Parallel Masterpiece // Alpha // Fanatical Crewman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_FanaticalCrewman_Non_Prm_Mp_Img.png"
+  },
+  "10422": {
+    "name": "Parallel Masterpiece // Alpha // Honored Steward",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_HonoredSteward_Non_Prm_Mp_Img.png"
+  },
+  "10423": {
+    "name": "Parallel Masterpiece // Alpha // Singularity Steward",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SingularitySteward_Non_Prm_Mp_Img.png"
+  },
+  "10424": {
+    "name": "Parallel Masterpiece // Alpha // Spectre Attack Craft",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SpectreAttackCraft_Non_Prm_Mp_Img.png"
+  },
+  "10425": {
+    "name": "Parallel Masterpiece // Alpha // Spider Drone",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SpiderDrone_Non_Prm_Mp_Img.png"
+  },
+  "10426": {
+    "name": "Parallel Masterpiece // Alpha // Annihilate",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_Annihilate_Non_Prm_Mp_Img.png"
+  },
+  "10427": {
+    "name": "Parallel Masterpiece // Alpha // Data Breach",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_DataBreach_Non_Prm_Mp_Img.png"
+  },
+  "10430": {
+    "name": "Parallel Masterpiece // Alpha // Life Stream",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_LifeStream_Non_Prm_Mp_Img.png"
+  },
+  "10431": {
+    "name": "Parallel Masterpiece // Alpha // Memento of the Fallen",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MementoOfTheFallen_Non_Prm_Mp_Img.png"
+  },
+  "10432": {
+    "name": "Parallel Masterpiece // Alpha // Mantis Corsair",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_MantisCorsair_Non_Prm_Mp_Img.png"
+  },
+  "10433": {
+    "name": "Parallel Masterpiece // Alpha // Scanner Probe",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_ScannerProbe_Non_Prm_Mp_Img.png"
+  },
+  "10437": {
+    "name": "Parallel Masterpiece // Alpha // Unfair Advantage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_UnfairAdvantage_Non_Prm_Mp_Img.png"
+  },
+  "10438": {
+    "name": "Parallel Masterpiece // Alpha // Assembly Foreman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_AssemblyForeman_Non_Prm_Mp_Img.png"
+  },
+  "10444": {
+    "name": "Data Breach [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_DataBreach_Non_Lgn_Se_Img.png"
+  },
+  "10445": {
+    "name": "Data Breach",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_DataBreach_Non_Lgn_Fe_Img.png"
+  },
+  "10446": {
+    "name": "Assembly Foreman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_AssemblyForeman_Non_Rar_Fe_Img.png"
+  },
+  "10447": {
+    "name": "Assembly Foreman [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_AssemblyForeman_Non_Rar_Se_Img.png"
+  },
+  "10448": {
+    "name": "Arak, Combat Overseer Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_ArakCombatOverseer_Non_Prm_Ac_Img.png"
+  },
+  "10449": {
+    "name": "Juggernaut Workshop Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_JuggernautWorkshop_Non_Prm_Ac_Img.png"
+  },
+  "10450": {
+    "name": "Maritus Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_MaritusConceptArt_Non_Prm_Ac_Img.png"
+  },
+  "10451": {
+    "name": "Brand, Steward Eternal Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_BrandStewardEternal_Non_Prm_Ac_Img.png"
+  },
+  "10452": {
+    "name": "Dark Allure Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_DarkAllureConceptArt_Non_Prm_Ac_Img.png"
+  },
+  "10453": {
+    "name": "Honored Steward Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_HonoredStewardConceptArt_Non_Prm_Ac_Img.png"
+  },
+  "10454": {
+    "name": "Singularity Steward Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Shr_SingularityStewardConceptArt_Non_Prm_Ac_Img.png"
+  },
+  "10455": {
+    "name": "EMP Shockwave Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_EmpShockwave_Non_Prm_Ac_Img.png"
+  },
+  "10464": {
+    "name": "The Core",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_TheCore_Non_Prm_As_Img.png"
+  },
+  "10465": {
+    "name": "The Staff of Shoshanna [PL]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_TheStaffOfShoshanna_Non_Ucm_Pl_Vid.gif"
+  },
+  "10466": {
+    "name": "EMP Shockwave [PL]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_EmpShockwave_Non_Ucm_Pl_Vid.gif"
+  },
+  "10467": {
+    "name": "Seer's Stone [PL]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_SeersStone_Non_Rar_Pl_Vid.gif"
+  },
+  "10469": {
+    "name": "Infused Core [PL]",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Unv_InfusedCore_Non_Rar_Pl_Vid.gif"
+  },
+  "10470": {
+    "name": "Parallel Masterpiece // Alpha // The Staff of Shoshanna",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_TheStaffOfShoshanna_Non_Prm_Mp_Vid.gif"
+  },
+  "10471": {
+    "name": "Parallel Masterpiece // Alpha // EMP Shockwave",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_EmpShockwave_Non_Prm_Mp_Vid.gif"
+  },
+  "10472": {
+    "name": "Parallel Masterpiece // Alpha // Infused Core",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_InfusedCore_Non_Prm_Mp_Vid.gif"
+  },
+  "10473": {
+    "name": "Parallel Masterpiece // Alpha // Seer's Stone",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Unv_SeersStone_Non_Prm_Mp_Vid.gif"
+  },
+  "10475": {
+    "name": "Fluid Dynamics Art Card",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ukn_FluidDynamics_Non_Prm_Ac_Vid.gif"
+  },
+  "10476": {
+    "name": "Jury-Rigged Juggernaut Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Agc_JuggernautCardBack_Non_Prm_Cb_Vid.gif"
+  },
+  "10477": {
+    "name": "Kamuy Mask Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Ert_KamuyMaskCardBack_Non_Prm_Cb_Vid.gif"
+  },
+  "10478": {
+    "name": "Unnatural Selection Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Kat_UnnaturalSelectionCardBack_Non_Prm_Cb_Vid.gif"
+  },
+  "10479": {
+    "name": "EMP Shockwave Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_EmpShockwaveCB_Non_Prm_Cb_Vid.gif"
+  },
+  "10480": {
+    "name": "Parallel Logo Collectible Card Back",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/img_Unv_ParallelLogoCB_Non_Prm_Cb_Vid.gif"
+  },
+  "10481": {
+    "name": "PDII Core Pack Reservation",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/core-pack-reservation-pdii.gif"
+  },
+  "10482": {
+    "name": "Battle-hardened Warrior",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_BattleHardenedWarrior_Non_Ucm_Fe_Img.png"
+  },
+  "10483": {
+    "name": "Battle-hardened Warrior [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_BattleHardenedWarrior_Non_Ucm_Se_Img.png"
+  },
+  "10484": {
+    "name": "Parallel Masterpiece // Alpha // Battle-hardened Warrior",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Ert_BattleHardenedWarrior_Non_Prm_Mp_Img.png"
+  },
+  "10486": {
+    "name": "Parallel Masterpiece // Alpha // Inspiring Teacher",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Unv_InspiringTeacher_Non_Prm_Mp_Img.png"
+  },
+  "10487": {
+    "name": "Seeing Red Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Mcl_SeeingRed_Non_Prm_Cb_Img.png"
+  },
+  "10488": {
+    "name": "Planetary Ambition Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Mcl_PlanetaryAmbition_Non_Prm_Cb_Img.png"
+  },
+  "10489": {
+    "name": "Iron Corps Helmet Collectible Card Back",
+    "image": "https://storage.googleapis.com/cardsparallellife/Mcl_IronCorpsHelmet_Non_Prm_Cb_Vid.gif"
+  },
+  "10490": {
+    "name": "Collapsing Star [PL]",
+    "image": "https://storage.googleapis.com/cardsparallellife/Shr_CollapsingStar_Non_Lgn_Pl_Vid.gif"
+  },
+  "10491": {
+    "name": "Collapsing Star [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Shr_CollapsingStar_Non_Lgn_Se_Img.png"
+  },
+  "10492": {
+    "name": "Inspiring Teacher [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Unv_InspiringTeacher_Non_Cmn_Se_Img.png"
+  },
+  "10493": {
+    "name": "Inspiring Teacher",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Unv_InspiringTeacher_Non_Cmn_Fe_Img.png"
+  },
+  "10494": {
+    "name": "Disciple of Maritus",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_DiscipleOfMaritus/Kat_DiscipleOfMaritus_Non_Ucm_Fe_Img.png"
+  },
+  "10495": {
+    "name": "Disciple of Maritus [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_DiscipleOfMaritus/Kat_DiscipleOfMaritus_Non_Ucm_Se_Img.png"
+  },
+  "10498": {
+    "name": "Enduring Immunus",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_EnduringImmunus/Kat_EnduringImmunus_Non_Cmn_Fe_Img.png"
+  },
+  "10499": {
+    "name": "Enduring Immunus [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_EnduringImmunus/Kat_EnduringImmunus_Non_Cmn_Se_Img.png"
+  },
+  "10500": {
+    "name": "Formatician's Exalt",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_FormaticiansExalt/Kat_FormaticiansExalt_Non_Cmn_Fe_Img.png"
+  },
+  "10501": {
+    "name": "Formatician's Exalt [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_FormaticiansExalt/Kat_FormaticiansExalt_Non_Cmn_Se_Img.png"
+  },
+  "10502": {
+    "name": "Gallian Orator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_GallianOrator/Kat_GallianOrator_Non_Rar_Fe_Img.png"
+  },
+  "10503": {
+    "name": "Gallian Orator [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_GallianOrator/Kat_GallianOrator_Non_Rar_Se_Img.png"
+  },
+  "10504": {
+    "name": "Polyploidian Vessel",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_PolyploidianVessel/Kat_PolyploidianVessel_Non_Ucm_Fe_Img.png"
+  },
+  "10505": {
+    "name": "Polyploidian Vessel [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_PolyploidianVessel/Kat_PolyploidianVessel_Non_Ucm_Se_Img.png"
+  },
+  "10506": {
+    "name": "Progenitor Pod",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_ProgenitorPod/Kat_ProgenitorPod_Non_Lgn_Fe_Img.png"
+  },
+  "10507": {
+    "name": "Progenitor Pod [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_ProgenitorPod/Kat_ProgenitorPod_Non_Lgn_Se_Img.png"
+  },
+  "10508": {
+    "name": "Voice of Europa",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_VoiceOfEuropa/Kat_VoiceOfEuropa_Non_Rar_Fe_Img.png"
+  },
+  "10509": {
+    "name": "Voice of Europa [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_VoiceOfEuropa/Kat_VoiceOfEuropa_Non_Rar_Se_Img.png"
+  },
+  "10510": {
+    "name": "Crimson Fleet Machinist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CrimsonFleetMachinist/Mcl_CrimsonFleetMachinist_Non_Cmn_Fe_Img.png"
+  },
+  "10511": {
+    "name": "Crimson Fleet Machinist [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CrimsonFleetMachinist/Mcl_CrimsonFleetMachinist_Non_Cmn_Se_Img.png"
+  },
+  "10512": {
+    "name": "Determined Assault",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_DeterminedAssault/Mcl_DeterminedAssault_Non_Cmn_Fe_Img.png"
+  },
+  "10513": {
+    "name": "Determined Assault [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_DeterminedAssault/Mcl_DeterminedAssault_Non_Cmn_Se_Img.png"
+  },
+  "10514": {
+    "name": "Grizzled Scout",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_GrizzledScout/Mcl_GrizzledScout_Non_Rar_Fe_Img.png"
+  },
+  "10515": {
+    "name": "Grizzled Scout [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_GrizzledScout/Mcl_GrizzledScout_Non_Rar_Se_Img.png"
+  },
+  "10516": {
+    "name": "Collapsing Star",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_CollapsingStar/Shr_CollapsingStar_Non_Lgn_Fe_Img.png"
+  },
+  "10517": {
+    "name": "Dimension Shifter",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_DimensionShifter/Shr_DimensionShifter_Non_Rar_Fe_Img.png"
+  },
+  "10518": {
+    "name": "Dimension Shifter [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_DimensionShifter/Shr_DimensionShifter_Non_Rar_Se_Img.png"
+  },
+  "10519": {
+    "name": "Erasure",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_Erasure/Shr_Erasure_Non_Cmn_Fe_Img.png"
+  },
+  "10520": {
+    "name": "Erasure [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_Erasure/Shr_Erasure_Non_Cmn_Se_Img.png"
+  },
+  "10521": {
+    "name": "Mind Twister",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_MindTwister/Shr_MindTwister_Non_Cmn_Fe_Img.png"
+  },
+  "10522": {
+    "name": "Mind Twister [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_MindTwister/Shr_MindTwister_Non_Cmn_Se_Img.png"
+  },
+  "10523": {
+    "name": "Nullifier Acolyte",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_NullifierAcolyte/Shr_NullifierAcolyte_Non_Ucm_Fe_Img.png"
+  },
+  "10524": {
+    "name": "Nullifier Acolyte [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_NullifierAcolyte/Shr_NullifierAcolyte_Non_Ucm_Se_Img.png"
+  },
+  "10525": {
+    "name": "Void-Touched Novice",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_VoidTouchedNovice/Shr_VoidTouchedNovice_Non_Ucm_Fe_Img.png"
+  },
+  "10526": {
+    "name": "Void-Touched Novice [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_VoidTouchedNovice/Shr_VoidTouchedNovice_Non_Ucm_Se_Img.png"
+  },
+  "10527": {
+    "name": "Enhanced Exoskeleton",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_EnhancedExoskeleton/Agc_EnhancedExoskeleton_Non_Ucm_Fe_Img.png"
+  },
+  "10528": {
+    "name": "Enhanced Exoskeleton [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_EnhancedExoskeleton/Agc_EnhancedExoskeleton_Non_Ucm_Se_Img.png"
+  },
+  "10529": {
+    "name": "Hardlinked Pilot",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HardlinkedPilot/Agc_HardlinkedPilot_Non_Cmn_Fe_Img.png"
+  },
+  "10530": {
+    "name": "Hardlinked Pilot [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HardlinkedPilot/Agc_HardlinkedPilot_Non_Cmn_Se_Img.png"
+  },
+  "10531": {
+    "name": "Jump Recovery",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_JumpRecovery/Agc_JumpRecovery_Non_Rar_Fe_Img.png"
+  },
+  "10532": {
+    "name": "Jump Recovery [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_JumpRecovery/Agc_JumpRecovery_Non_Rar_Se_Img.png"
+  },
+  "10533": {
+    "name": "Point Defense Turret",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_PointDefenseTurret/Agc_PointDefenseTurret_Non_Rar_Fe_Img.png"
+  },
+  "10534": {
+    "name": "Point Defense Turret [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_PointDefenseTurret/Agc_PointDefenseTurret_Non_Rar_Se_Img.png"
+  },
+  "10535": {
+    "name": "Scrapheap Salvager",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ScrapheapSalvager/Agc_ScrapheapSalvager_Non_Cmn_Fe_Img.png"
+  },
+  "10536": {
+    "name": "Scrapheap Salvager [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ScrapheapSalvager/Agc_ScrapheapSalvager_Non_Cmn_Se_Img.png"
+  },
+  "10537": {
+    "name": "Upcycled Technology",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_UpcycledTechnology/Agc_UpcycledTechnology_Non_Rar_Fe_Img.png"
+  },
+  "10538": {
+    "name": "Upcycled Technology [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_UpcycledTechnology/Agc_UpcycledTechnology_Non_Rar_Se_Img.png"
+  },
+  "10539": {
+    "name": "Ardent Negotiator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ArdentNegotiator/Ert_ArdentNegotiator_Non_Ucm_Fe_Img.png"
+  },
+  "10540": {
+    "name": "Ardent Negotiator [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ArdentNegotiator/Ert_ArdentNegotiator_Non_Ucm_Se_Img.png"
+  },
+  "10541": {
+    "name": "Primea Conduit",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_PrimeaConduit/Ert_PrimeaConduit_Non_Ucm_Fe_Img.png"
+  },
+  "10542": {
+    "name": "Primea Conduit [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_PrimeaConduit/Ert_PrimeaConduit_Non_Ucm_Se_Img.png"
+  },
+  "10543": {
+    "name": "Shaymak Stone-Eyes",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ShaymakStoneEyes/Ert_ShaymakStoneEyes_Non_Cmn_Fe_Img.png"
+  },
+  "10544": {
+    "name": "Shaymak Stone-Eyes [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ShaymakStoneEyes/Ert_ShaymakStoneEyes_Non_Cmn_Se_Img.png"
+  },
+  "10545": {
+    "name": "Steward of the Garden",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_StewardOfTheGarden/Ert_StewardOfTheGarden_Non_Cmn_Fe_Img.png"
+  },
+  "10546": {
+    "name": "Steward of the Garden [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_StewardOfTheGarden/Ert_StewardOfTheGarden_Non_Cmn_Se_Img.png"
+  },
+  "10547": {
+    "name": "Dana Silvertongue",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DanaSilvertongue/Unv_DanaSilvertongue_Non_Lgn_Fe_Img.png"
+  },
+  "10549": {
+    "name": "Dana Silvertongue [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DanaSilvertongue/Unv_DanaSilvertongue_Non_Lgn_Se_Img.png"
+  },
+  "10550": {
+    "name": "DS-1 Prototype Frigate",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DS1PrototypeFrigate/Unv_DS1PrototypeFrigate_Non_Ucm_Fe_Img.png"
+  },
+  "10551": {
+    "name": "DS-1 Prototype Frigate [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DS1PrototypeFrigate/Unv_DS1PrototypeFrigate_Non_Ucm_Se_Img.png"
+  },
+  "10552": {
+    "name": "Gambler's Coin",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_GamblersCoin/Unv_GamblersCoin_Tai_Lgn_Fe_Img.png"
+  },
+  "10553": {
+    "name": "Gambler's Coin",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_GamblersCoin/Unv_GamblersCoin_Hea_Lgn_Fe_Img.png"
+  },
+  "10554": {
+    "name": "Gambler's Coin [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_GamblersCoin/Unv_GamblersCoin_Tai_Lgn_Se_Img.png"
+  },
+  "10555": {
+    "name": "Gambler's Coin [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_GamblersCoin/Unv_GamblersCoin_Hea_Lgn_Se_Img.png"
+  },
+  "10556": {
+    "name": "Hidden Vaults",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_HiddenVaults/Unv_HiddenVaults_Non_Cmn_Fe_Img.png"
+  },
+  "10557": {
+    "name": "Hidden Vaults [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_HiddenVaults/Unv_HiddenVaults_Non_Cmn_Se_Img.png"
+  },
+  "10558": {
+    "name": "Kingpin's Tithe",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_KingpinsTithe/Unv_KingpinsTithe_Non_Rar_Fe_Img.png"
+  },
+  "10559": {
+    "name": "Kingpin's Tithe [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_KingpinsTithe/Unv_KingpinsTithe_Non_Rar_Se_Img.png"
+  },
+  "10560": {
+    "name": "Saboteur",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Saboteur/Unv_Saboteur_Non_Ucm_Fe_Img.png"
+  },
+  "10561": {
+    "name": "Saboteur [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Saboteur/Unv_Saboteur_Non_Ucm_Se_Img.png"
+  },
+  "10562": {
+    "name": "Shielded Assassin",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_ShieldedAssassin/Unv_ShieldedAssassin_Non_Ucm_Fe_Img.png"
+  },
+  "10563": {
+    "name": "Shielded Assassin [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_ShieldedAssassin/Unv_ShieldedAssassin_Non_Ucm_Se_Img.png"
+  },
+  "10564": {
+    "name": "Squad Traitor",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SquadTraitor/Unv_SquadTraitor_Non_Ucm_Fe_Img.png"
+  },
+  "10565": {
+    "name": "Squad Traitor [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SquadTraitor/Unv_SquadTraitor_Non_Ucm_Se_Img.png"
+  },
+  "10566": {
+    "name": "TE4 Interceptor",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TE4Interceptor/Unv_TE4Interceptor_Non_Cmn_Fe_Img.png"
+  },
+  "10567": {
+    "name": "TE4 Interceptor [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TE4Interceptor/Unv_TE4Interceptor_Non_Cmn_Se_Img.png"
+  },
+  "10568": {
+    "name": "Trade Route Ambush",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TradeRouteAmbush/Unv_TradeRouteAmbush_Non_Rar_Fe_Img.png"
+  },
+  "10569": {
+    "name": "Trade Route Ambush [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TradeRouteAmbush/Unv_TradeRouteAmbush_Non_Rar_Se_Img.png"
+  },
+  "10570": {
+    "name": "Unstable Shield Generator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_UnstableShieldGenerator/Unv_UnstableShieldGenerator_Non_Cmn_Fe_Img.png"
+  },
+  "10571": {
+    "name": "Unstable Shield Generator [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_UnstableShieldGenerator/Unv_UnstableShieldGenerator_Non_Cmn_Se_Img.png"
+  },
+  "10572": {
+    "name": "Commandeered Warship",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CommandeeredWarship/Unv_CommandeeredWarship_Non_Rar_Fe_Img.png"
+  },
+  "10573": {
+    "name": "Commandeered Warship [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CommandeeredWarship/Unv_CommandeeredWarship_Non_Rar_Se_Img.png"
+  },
+  "10574": {
+    "name": "Parallel Masterpiece // Alpha // Enhanced Exoskeleton",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_EnhancedExoskeleton/Agc_EnhancedExoskeleton_Non_Prm_Mp_Img.png"
+  },
+  "10575": {
+    "name": "Parallel Masterpiece // Alpha // Hardlinked Pilot",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HardlinkedPilot/Agc_HardlinkedPilot_Non_Prm_Mp_Img.png"
+  },
+  "10576": {
+    "name": "Parallel Masterpiece // Alpha // Jump Recovery",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_JumpRecovery/Agc_JumpRecovery_Non_Prm_Mp_Img.png"
+  },
+  "10577": {
+    "name": "Parallel Masterpiece // Alpha // Point Defense Turret",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_PointDefenseTurret/Agc_PointDefenseTurret_Non_Prm_Mp_Img.png"
+  },
+  "10578": {
+    "name": "Parallel Masterpiece // Alpha // Scrapheap Salvager",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ScrapheapSalvager/Agc_ScrapheapSalvager_Non_Prm_Mp_Img.png"
+  },
+  "10579": {
+    "name": "Parallel Masterpiece // Alpha // Ardent Negotiator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ArdentNegotiator/Ert_ArdentNegotiator_Non_Prm_Mp_Img.png"
+  },
+  "10580": {
+    "name": "Parallel Masterpiece // Alpha // Primea Conduit",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_PrimeaConduit/Ert_PrimeaConduit_Non_Prm_Mp_Img.png"
+  },
+  "10581": {
+    "name": "Parallel Masterpiece // Alpha // Shaymak Stone-Eyes",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ShaymakStoneEyes/Ert_ShaymakStoneEyes_Non_Prm_Mp_Img.png"
+  },
+  "10582": {
+    "name": "Parallel Masterpiece // Alpha // Steward of the Garden",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_StewardOfTheGarden/Ert_StewardOfTheGarden_Non_Prm_Mp_Img.png"
+  },
+  "10583": {
+    "name": "Parallel Masterpiece // Alpha // Disciple of Maritus",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_DiscipleOfMaritus/Kat_DiscipleOfMaritus_Non_Prm_Mp_Img.png"
+  },
+  "10584": {
+    "name": "Parallel Masterpiece // Alpha // Enduring Immunus",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_EnduringImmunus/Kat_EnduringImmunus_Non_Prm_Mp_Img.png"
+  },
+  "10585": {
+    "name": "Parallel Masterpiece // Alpha // Formatician's Exalt",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_FormaticiansExalt/Kat_FormaticiansExalt_Non_Prm_Mp_Img.png"
+  },
+  "10586": {
+    "name": "Parallel Masterpiece // Alpha // Gallian Orator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_GallianOrator/Kat_GallianOrator_Non_Prm_Mp_Img.png"
+  },
+  "10587": {
+    "name": "Parallel Masterpiece // Alpha // Polyploidian Vessel",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_PolyploidianVessel/Kat_PolyploidianVessel_Non_Prm_Mp_Img.png"
+  },
+  "10588": {
+    "name": "Parallel Masterpiece // Alpha // Progenitor Pod",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_ProgenitorPod/Kat_ProgenitorPod_Non_Prm_Mp_Img.png"
+  },
+  "10589": {
+    "name": "Parallel Masterpiece // Alpha // Voice of Europa",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_VoiceOfEuropa/Kat_VoiceOfEuropa_Non_Prm_Mp_Img.png"
+  },
+  "10590": {
+    "name": "Parallel Masterpiece // Alpha // Crimson Fleet Machinist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CrimsonFleetMachinist/Mcl_CrimsonFleetMachinist_Non_Prm_Mp_Img.png"
+  },
+  "10591": {
+    "name": "Parallel Masterpiece // Alpha // Determined Assault",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_DeterminedAssault/Mcl_DeterminedAssault_Non_Prm_Mp_Img.png"
+  },
+  "10592": {
+    "name": "Parallel Masterpiece // Alpha // Grizzled Scout",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_GrizzledScout/Mcl_GrizzledScout_Non_Prm_Mp_Img.png"
+  },
+  "10593": {
+    "name": "Parallel Masterpiece // Alpha // Dimension Shifter",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_DimensionShifter/Shr_DimensionShifter_Non_Prm_Mp_Img.png"
+  },
+  "10594": {
+    "name": "Parallel Masterpiece // Alpha // Mind Twister",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_MindTwister/Shr_MindTwister_Non_Prm_Mp_Img.png"
+  },
+  "10595": {
+    "name": "Parallel Masterpiece // Alpha // Nullifier Acolyte",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_NullifierAcolyte/Shr_NullifierAcolyte_Non_Prm_Mp_Img.png"
+  },
+  "10601": {
+    "name": "Parallel Masterpiece // Alpha // Void-Touched Novice",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_VoidTouchedNovice/Shr_VoidTouchedNovice_Non_Prm_Mp_Img.png"
+  },
+  "10602": {
+    "name": "Parallel Masterpiece // Alpha // Commandeered Warship",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CommandeeredWarship/Unv_CommandeeredWarship_Non_Prm_Mp_Img.png"
+  },
+  "10603": {
+    "name": "Parallel Masterpiece // Alpha // Dana Silvertongue",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DanaSilvertongue/Unv_DanaSilvertongue_Non_Prm_Mp_Img.png"
+  },
+  "10604": {
+    "name": "Parallel Masterpiece // Alpha // DS-1 Prototype Frigate",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DS1PrototypeFrigate/Unv_DS1PrototypeFrigate_Non_Prm_Mp_Img.png"
+  },
+  "10605": {
+    "name": "Parallel Masterpiece // Alpha // Hidden Vaults",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_HiddenVaults/Unv_HiddenVaults_Non_Prm_Mp_Img.png"
+  },
+  "10606": {
+    "name": "Parallel Masterpiece // Alpha // Kingpin's Tithe",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_KingpinsTithe/Unv_KingpinsTithe_Non_Prm_Mp_Img.png"
+  },
+  "10607": {
+    "name": "Parallel Masterpiece // Alpha // Saboteur",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Saboteur/Unv_Saboteur_Non_Prm_Mp_Img.png"
+  },
+  "10608": {
+    "name": "Parallel Masterpiece // Alpha // Shielded Assassin",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_ShieldedAssassin/Unv_ShieldedAssassin_Non_Prm_Mp_Img.png"
+  },
+  "10609": {
+    "name": "Parallel Masterpiece // Alpha // Squad Traitor",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SquadTraitor/Unv_SquadTraitor_Non_Prm_Mp_Img.png"
+  },
+  "10610": {
+    "name": "Parallel Masterpiece // Alpha // TE4 Interceptor",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TE4Interceptor/Unv_TE4Interceptor_Non_Prm_Mp_Img.png"
+  },
+  "10611": {
+    "name": "Parallel Masterpiece // Alpha // Trade Route Ambush",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TradeRouteAmbush/Unv_TradeRouteAmbush_Non_Prm_Mp_Img.png"
+  },
+  "10612": {
+    "name": "Parallel Masterpiece // Alpha // Unstable Shield Generator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_UnstableShieldGenerator/Unv_UnstableShieldGenerator_Non_Prm_Mp_Img.png"
+  },
+  "10614": {
+    "name": "Parallel Masterpiece // Alpha // Grove Altruist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_GroveAltruist/Ert_GroveAltruist_Non_Prm_Mp_Img.png"
+  },
+  "10615": {
+    "name": "Grove Altruist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_GroveAltruist/Ert_GroveAltruist_Non_Cmn_Fe_Img.png"
+  },
+  "10616": {
+    "name": "Grove Altruist [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_GroveAltruist/Ert_GroveAltruist_Non_Cmn_Se_Img.png"
+  },
+  "10617": {
+    "name": "Machine-Learning Matrix",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_MachineLearningMatrix/Agc_MachineLearningMatrix_Non_Rar_Fe_Img.png"
+  },
+  "10618": {
+    "name": "Machine-Learning Matrix [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_MachineLearningMatrix/Agc_MachineLearningMatrix_Non_Rar_Se_Img.png"
+  },
+  "10619": {
+    "name": "Parallel Masterpiece // Alpha // Machine-Learning Matrix",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_MachineLearningMatrix/Agc_MachineLearningMatrix_Non_Prm_Mp_Vid.gif"
+  },
+  "10620": {
+    "name": "Parallel Masterpiece // Alpha // Upcycled Technology",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_UpcycledTechnology/Agc_UpcycledTechnology_Non_Prm_Mp_Vid.gif"
+  },
+  "10621": {
+    "name": "Parallel Masterpiece // Alpha // Collapsing Star",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_CollapsingStar/Shr_CollapsingStar_Non_Prm_Mp_Vid.gif"
+  },
+  "10622": {
+    "name": "Parallel Masterpiece // Alpha // Erasure",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_Erasure/Shr_Erasure_Non_Prm_Mp_Vid.gif"
+  },
+  "10623": {
+    "name": "Parallel Masterpiece // Alpha // Gambler's Coin",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_GamblersCoin/Unv_GamblersCoin_Hea_Lgn_Mp_Vid.gif"
+  },
+  "10625": {
+    "name": "Machine-Learning Matrix [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_MachineLearningMatrix/Agc_MachineLearningMatrix_Non_Rar_Pl_Vid.gif"
+  },
+  "10627": {
+    "name": "Erasure [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_Erasure/Shr_Erasure_Non_Cmn_Pl_Vid.gif"
+  },
+  "10628": {
+    "name": "Gambler's Coin [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_GamblersCoin/Unv_GamblersCoin_Hea_Lgn_Pl_Vid.gif"
+  },
+  "10629": {
+    "name": "Gambler's Coin [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_GamblersCoin/Unv_GamblersCoin_Tai_Lgn_Pl_Vid.gif"
+  },
+  "10630": {
+    "name": "Augencore Symbol Collectible Card Back",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_AugencoreSymbolCB/Agc_AugencoreSymbolCB_Non_Prm_Cb_Vid.gif"
+  },
+  "10631": {
+    "name": "Earthen Symbol Collectible Card Back",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EarthenSymbolCB/Ert_EarthenSymbolCB_Non_Prm_Cb_Vid.gif"
+  },
+  "10632": {
+    "name": "Kathari Symbol Collectible Card Back",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_KathariSymbolCB/Kat_KathariSymbolCB_Non_Prm_Cb_Vid.gif"
+  },
+  "10633": {
+    "name": "Marcolian Symbol Collectible Card Back",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_MarcolianSymbolCB/Mcl_MarcolianSymbolCB_Non_Prm_Cb_Vid.gif"
+  },
+  "10635": {
+    "name": "Shroud Symbol Collectible Card Back",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ShroudSymbolCB/Shr_ShroudSymbolCB_Non_Prm_Cb_Vid.gif"
+  },
+  "10636": {
+    "name": "Aetio, Exalted Hydrolist Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AetioExaltedHydrolist/Kat_AetioExaltedHydrolist_Non_Prm_Ac_Img.png"
+  },
+  "10637": {
+    "name": "Catherine Lapointe, The Mad General Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CatherineLapointeTheMadGeneral/Mcl_CatherineLapointeTheMadGeneral_Non_Prm_Ac_Img.png"
+  },
+  "10638": {
+    "name": "Formatician’s Exalt Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_FormaticiansExaltConcept/Kat_FormaticiansExaltConcept_Non_Prm_Ac_Img.png"
+  },
+  "10640": {
+    "name": "Squad Traitor Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SquadTraitorConcept/Unv_SquadTraitorConcept_Non_Prm_Ac_Img.png"
+  },
+  "10641": {
+    "name": "Steward of the Garden Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_StewardOfTheGardenConcept/Ert_StewardOfTheGardenConcept_Non_Prm_Ac_Img.png"
+  },
+  "10642": {
+    "name": "The Penshaw Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ThePenshawConcept/Mcl_ThePenshawConcept_Non_Prm_Ac_Img.png"
+  },
+  "10643": {
+    "name": "Void-Touched Novice Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_VoidTouchedNoviceConcept/Shr_VoidTouchedNoviceConcept_Non_Prm_Ac_Img.png"
+  },
+  "10644": {
+    "name": "Hardlinked Pilot Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HardlinkedPilotConcept/Agc_HardlinkedPilotConcept_Non_Prm_Ac_Img.png"
+  },
+  "10645": {
+    "name": "Upcycled Technology [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_UpcycledTechnology/Agc_UpcycledTechnology_Non_Rar_Pl_Vid.gif"
+  },
+  "10646": {
+    "name": "Multifold Key",
+    "image": "https://storage.googleapis.com/prod.static-assets.parallelnft.com/card-art/Unv_MultifoldKey_Non_Prm_As_Vid.gif"
+  },
+  "10647": {
+    "name": "Servants of Fate Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ServantsOfFate/Shr_ServantsOfFate_Non_Prm_Cb_Img.png"
+  },
+  "10648": {
+    "name": "Planetary Ambition Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_PlanetaryAmbition/Shr_PlanetaryAmbition_Non_Prm_Cb_Img.png"
+  },
+  "10649": {
+    "name": "9XE Helmet Collectible Card Back",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_9XEHelmet/Shr_9XEHelmet_Non_Prm_Cb_Vid.gif"
+  },
+  "10650": {
+    "name": "Parallel Masterpiece // Alpha // Mercenary Gunslinger",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_MercenaryGunslinger/Unv_MercenaryGunslinger_Non_Prm_Mp_Img.png"
+  },
+  "10651": {
+    "name": "Mercenary Gunslinger",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_MercenaryGunslinger/Unv_MercenaryGunslinger_Non_Cmn_Fe_Img.png"
+  },
+  "10652": {
+    "name": "Mercenary Gunslinger [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_MercenaryGunslinger/Unv_MercenaryGunslinger_Non_Cmn_Se_Img.png"
+  },
+  "10653": {
+    "name": "Sixth Palm of Galli",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_SixthPalmOfGalli/Kat_SixthPalmOfGalli_Non_Rar_Fe_Img.png"
+  },
+  "10654": {
+    "name": "Sixth Palm of Galli [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_SixthPalmOfGalli/Kat_SixthPalmOfGalli_Non_Rar_Se_Img.png"
+  },
+  "10655": {
+    "name": "Eighth Palm of Galli",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_EighthPalmOfGalli/Kat_EighthPalmOfGalli_Non_Rar_Fe_Img.png"
+  },
+  "10656": {
+    "name": "Eighth Palm of Galli [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_EighthPalmOfGalli/Kat_EighthPalmOfGalli_Non_Rar_Se_Img.png"
+  },
+  "10657": {
+    "name": "Cutting Edge",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_CuttingEdge/Agc_CuttingEdge_Non_Cmn_Fe_Img.png"
+  },
+  "10658": {
+    "name": "Cutting Edge [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_CuttingEdge/Agc_CuttingEdge_Non_Cmn_Se_Img.png"
+  },
+  "10659": {
+    "name": "Improvised Projectile",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ImprovisedProjectile/Agc_ImprovisedProjectile_Non_Cmn_Fe_Img.png"
+  },
+  "10660": {
+    "name": "Improvised Projectile [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ImprovisedProjectile/Agc_ImprovisedProjectile_Non_Cmn_Se_Img.png"
+  },
+  "10661": {
+    "name": "H.E.R.A Platform",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HeraPlatform/Agc_HeraPlatform_Non_Ucm_Fe_Img.png"
+  },
+  "10662": {
+    "name": "H.E.R.A Platform [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HeraPlatform/Agc_HeraPlatform_Non_Ucm_Se_Img.png"
+  },
+  "10663": {
+    "name": "Parallel Masterpiece // Alpha // Cutting Edge",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_CuttingEdge/Agc_CuttingEdge_Non_Prm_Mp_Img.png"
+  },
+  "10664": {
+    "name": "Parallel Masterpiece // Alpha // H.E.R.A Platform",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HeraPlatform/Agc_HeraPlatform_Non_Prm_Mp_Img.png"
+  },
+  "10665": {
+    "name": "Parallel Masterpiece // Alpha // Improvised Projectile",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ImprovisedProjectile/Agc_ImprovisedProjectile_Non_Prm_Mp_Img.png"
+  },
+  "10666": {
+    "name": "Icon of Ingenuity Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_IconOfIngenuity/Agc_IconOfIngenuity_Non_Prm_Cb_Img.png"
+  },
+  "10667": {
+    "name": "Ceremonial Rites",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_CeremonialRites/Ert_CeremonialRites_Non_Cmn_Fe_Img.png"
+  },
+  "10668": {
+    "name": "Ceremonial Rites [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_CeremonialRites/Ert_CeremonialRites_Non_Cmn_Se_Img.png"
+  },
+  "10669": {
+    "name": "Rainsoaked Mourner",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_RainsoakedMourner/Ert_RainsoakedMourner_Non_Cmn_Fe_Img.png"
+  },
+  "10670": {
+    "name": "Rainsoaked Mourner [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_RainsoakedMourner/Ert_RainsoakedMourner_Non_Cmn_Se_Img.png"
+  },
+  "10671": {
+    "name": "Ephrath's Attendant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EphrathsAttendant/Ert_EphrathsAttendant_Non_Ucm_Fe_Img.png"
+  },
+  "10672": {
+    "name": "Ephrath's Attendant [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EphrathsAttendant/Ert_EphrathsAttendant_Non_Ucm_Se_Img.png"
+  },
+  "10673": {
+    "name": "Rhetorician",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_Rhetorician/Ert_Rhetorician_Non_Ucm_Fe_Img.png"
+  },
+  "10674": {
+    "name": "Rhetorician [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_Rhetorician/Ert_Rhetorician_Non_Ucm_Se_Img.png"
+  },
+  "10675": {
+    "name": "Dauntless Axeman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_DauntlessAxeman/Ert_DauntlessAxeman_Non_Rar_Fe_Img.png"
+  },
+  "10676": {
+    "name": "Dauntless Axeman [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_DauntlessAxeman/Ert_DauntlessAxeman_Non_Rar_Se_Img.png"
+  },
+  "10677": {
+    "name": "Grove Guardian",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_GroveGuardian/Ert_GroveGuardian_Non_Rar_Fe_Img.png"
+  },
+  "10678": {
+    "name": "Grove Guardian [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_GroveGuardian/Ert_GroveGuardian_Non_Rar_Se_Img.png"
+  },
+  "10679": {
+    "name": "Life Vault",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_LifeVault/Ert_LifeVault_Non_Rar_Fe_Img.png"
+  },
+  "10680": {
+    "name": "Life Vault [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_LifeVault/Ert_LifeVault_Non_Rar_Se_Img.png"
+  },
+  "10681": {
+    "name": "Jonah the Undecided",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_JonahTheUndecided/Ert_JonahTheUndecided_Non_Lgn_Fe_Img.png"
+  },
+  "10682": {
+    "name": "Jonah the Undecided [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_JonahTheUndecided/Ert_JonahTheUndecided_Non_Lgn_Se_Img.png"
+  },
+  "10683": {
+    "name": "Parallel Masterpiece // Alpha // Ceremonial Rites",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_CeremonialRites/Ert_CeremonialRites_Non_Prm_Mp_Img.png"
+  },
+  "10684": {
+    "name": "Parallel Masterpiece // Alpha // Dauntless Axeman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_DauntlessAxeman/Ert_DauntlessAxeman_Non_Prm_Mp_Img.png"
+  },
+  "10685": {
+    "name": "Dauntless Axeman Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_DauntlessAxemanConcept/Ert_DauntlessAxemanConcept_Non_Prm_Ac_Img.png"
+  },
+  "10686": {
+    "name": "Parallel Masterpiece // Alpha // Ephrath's Attendant",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EphrathsAttendant/Ert_EphrathsAttendant_Non_Prm_Mp_Img.png"
+  },
+  "10687": {
+    "name": "Parallel Masterpiece // Alpha // Grove Guardian",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_GroveGuardian/Ert_GroveGuardian_Non_Prm_Mp_Img.png"
+  },
+  "10688": {
+    "name": "Icon of Protection Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_IconOfProtection/Ert_IconOfProtection_Non_Prm_Cb_Img.png"
+  },
+  "10689": {
+    "name": "Parallel Masterpiece // Alpha // Jonah the Undecided",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_JonahTheUndecided/Ert_JonahTheUndecided_Non_Prm_Mp_Img.png"
+  },
+  "10690": {
+    "name": "Parallel Masterpiece // Alpha // Life Vault",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_LifeVault/Ert_LifeVault_Non_Prm_Mp_Img.png"
+  },
+  "10691": {
+    "name": "Parallel Masterpiece // Alpha // Rainsoaked Mourner",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_RainsoakedMourner/Ert_RainsoakedMourner_Non_Prm_Mp_Img.png"
+  },
+  "10692": {
+    "name": "Parallel Masterpiece // Alpha // Rhetorician",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_Rhetorician/Ert_Rhetorician_Non_Prm_Mp_Img.png"
+  },
+  "10693": {
+    "name": "Shoshanna, Rebuilder of Earth Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ShoshannaRebuilderOfEarth/Ert_ShoshannaRebuilderOfEarth_Non_Prm_Ac_Img.png"
+  },
+  "10694": {
+    "name": "Beloved Donor",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_BelovedDonor/Kat_BelovedDonor_Non_Cmn_Fe_Img.png"
+  },
+  "10695": {
+    "name": "Beloved Donor [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_BelovedDonor/Kat_BelovedDonor_Non_Cmn_Se_Img.png"
+  },
+  "10696": {
+    "name": "Cunning Scipian",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_CunningScipian/Kat_CunningScipian_Non_Cmn_Fe_Img.png"
+  },
+  "10697": {
+    "name": "Cunning Scipian [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_CunningScipian/Kat_CunningScipian_Non_Cmn_Se_Img.png"
+  },
+  "10698": {
+    "name": "Rousing Signum",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_RousingSignum/Kat_RousingSignum_Non_Ucm_Fe_Img.png"
+  },
+  "10699": {
+    "name": "Rousing Signum [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_RousingSignum/Kat_RousingSignum_Non_Ucm_Se_Img.png"
+  },
+  "10700": {
+    "name": "Parallel Masterpiece // Alpha // Beloved Donor",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_BelovedDonor/Kat_BelovedDonor_Non_Prm_Mp_Img.png"
+  },
+  "10701": {
+    "name": "Beloved Donor Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_BelovedDonorConcept/Kat_BelovedDonorConcept_Non_Prm_Ac_Img.png"
+  },
+  "10702": {
+    "name": "Parallel Masterpiece // Alpha // Cunning Scipian",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_CunningScipian/Kat_CunningScipian_Non_Prm_Mp_Img.png"
+  },
+  "10703": {
+    "name": "Parallel Masterpiece // Alpha // Eighth Palm of Galli",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_EighthPalmOfGalli/Kat_EighthPalmOfGalli_Non_Prm_Mp_Img.png"
+  },
+  "10704": {
+    "name": "Gnaeus Valerus Alpha Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_GnaeusValerusAlpha/Kat_GnaeusValerusAlpha_Non_Prm_Ac_Img.png"
+  },
+  "10705": {
+    "name": "Icon of Unity Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_IconOfUnity/Kat_IconOfUnity_Non_Prm_Cb_Img.png"
+  },
+  "10706": {
+    "name": "Parallel Masterpiece // Alpha // Rousing Signum",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_RousingSignum/Kat_RousingSignum_Non_Prm_Mp_Img.png"
+  },
+  "10707": {
+    "name": "Parallel Masterpiece // Alpha // Sixth Palm of Galli",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_SixthPalmOfGalli/Kat_SixthPalmOfGalli_Non_Prm_Mp_Img.png"
+  },
+  "10708": {
+    "name": "Sixth Palm Of Galli Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_SixthPalmOfGalliConcept/Kat_SixthPalmOfGalliConcept_Non_Prm_Ac_Img.png"
+  },
+  "10709": {
+    "name": "Combat Veteran",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CombatVeteran/Mcl_CombatVeteran_Non_Cmn_Fe_Img.png"
+  },
+  "10710": {
+    "name": "Combat Veteran [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CombatVeteran/Mcl_CombatVeteran_Non_Cmn_Se_Img.png"
+  },
+  "10711": {
+    "name": "Longbow Personnel Carrier",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_LongbowPersonnelCarrier/Mcl_LongbowPersonnelCarrier_Non_Cmn_Fe_Img.png"
+  },
+  "10712": {
+    "name": "Longbow Personnel Carrier [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_LongbowPersonnelCarrier/Mcl_LongbowPersonnelCarrier_Non_Cmn_Se_Img.png"
+  },
+  "10713": {
+    "name": "Crack Shot",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CrackShot/Mcl_CrackShot_Non_Ucm_Fe_Img.png"
+  },
+  "10714": {
+    "name": "Crack Shot [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CrackShot/Mcl_CrackShot_Non_Ucm_Se_Img.png"
+  },
+  "10715": {
+    "name": "Ammo Hauler",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_AmmoHauler/Mcl_AmmoHauler_Non_Rar_Fe_Img.png"
+  },
+  "10716": {
+    "name": "Ammo Hauler [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_AmmoHauler/Mcl_AmmoHauler_Non_Rar_Se_Img.png"
+  },
+  "10717": {
+    "name": "Iron Corps Rifleman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_IronCorpsRifleman/Mcl_IronCorpsRifleman_Non_Rar_Fe_Img.png"
+  },
+  "10718": {
+    "name": "Iron Corps Rifleman [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_IronCorpsRifleman/Mcl_IronCorpsRifleman_Non_Rar_Se_Img.png"
+  },
+  "10719": {
+    "name": "Orbital Patrol",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_OrbitalPatrol/Mcl_OrbitalPatrol_Non_Rar_Fe_Img.png"
+  },
+  "10720": {
+    "name": "Orbital Patrol [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_OrbitalPatrol/Mcl_OrbitalPatrol_Non_Rar_Se_Img.png"
+  },
+  "10721": {
+    "name": "Scimitar Scout Bike",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ScimitarScoutBike/Mcl_ScimitarScoutBike_Non_Rar_Fe_Img.png"
+  },
+  "10722": {
+    "name": "Scimitar Scout Bike [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ScimitarScoutBike/Mcl_ScimitarScoutBike_Non_Rar_Se_Img.png"
+  },
+  "10723": {
+    "name": "Parallel Masterpiece // Alpha // Ammo Hauler",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_AmmoHauler/Mcl_AmmoHauler_Non_Prm_Mp_Img.png"
+  },
+  "10724": {
+    "name": "Parallel Masterpiece // Alpha // Combat Veteran",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CombatVeteran/Mcl_CombatVeteran_Non_Prm_Mp_Img.png"
+  },
+  "10725": {
+    "name": "Parallel Masterpiece // Alpha // Crack Shot",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_CrackShot/Mcl_CrackShot_Non_Prm_Mp_Img.png"
+  },
+  "10726": {
+    "name": "Icon of Strength Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_IconOfStrength/Mcl_IconOfStrength_Non_Prm_Cb_Img.png"
+  },
+  "10727": {
+    "name": "Parallel Masterpiece // Alpha // Iron Corps Rifleman",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_IronCorpsRifleman/Mcl_IronCorpsRifleman_Non_Prm_Mp_Img.png"
+  },
+  "10728": {
+    "name": "Iron Corps Rifleman Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_IronCorpsRiflemanConcept/Mcl_IronCorpsRiflemanConcept_Non_Prm_Ac_Img.png"
+  },
+  "10729": {
+    "name": "Parallel Masterpiece // Alpha // Longbow Personnel Carrier",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_LongbowPersonnelCarrier/Mcl_LongbowPersonnelCarrier_Non_Prm_Mp_Img.png"
+  },
+  "10730": {
+    "name": "Parallel Masterpiece // Alpha // Orbital Patrol",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_OrbitalPatrol/Mcl_OrbitalPatrol_Non_Prm_Mp_Img.png"
+  },
+  "10731": {
+    "name": "Orbital Patrol Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_OrbitalPatrolConcept/Mcl_OrbitalPatrolConcept_Non_Prm_Ac_Img.png"
+  },
+  "10732": {
+    "name": "Parallel Masterpiece // Alpha // Scimitar Scout Bike",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ScimitarScoutBike/Mcl_ScimitarScoutBike_Non_Prm_Mp_Img.png"
+  },
+  "10733": {
+    "name": "Dark Dealings",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_DarkDealings/Shr_DarkDealings_Non_Cmn_Fe_Img.png"
+  },
+  "10734": {
+    "name": "Dark Dealings [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_DarkDealings/Shr_DarkDealings_Non_Cmn_Se_Img.png"
+  },
+  "10735": {
+    "name": "Sacred Destruction",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_SacredDestruction/Shr_SacredDestruction_Non_Cmn_Fe_Img.png"
+  },
+  "10736": {
+    "name": "Sacred Destruction [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_SacredDestruction/Shr_SacredDestruction_Non_Cmn_Se_Img.png"
+  },
+  "10737": {
+    "name": "Voidrunner",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_Voidrunner/Shr_Voidrunner_Non_Ucm_Fe_Img.png"
+  },
+  "10738": {
+    "name": "Voidrunner [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_Voidrunner/Shr_Voidrunner_Non_Ucm_Se_Img.png"
+  },
+  "10739": {
+    "name": "The Void Unleashed",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_TheVoidUnleashed/Shr_TheVoidUnleashed_Non_Rar_Fe_Img.png"
+  },
+  "10740": {
+    "name": "The Void Unleashed [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_TheVoidUnleashed/Shr_TheVoidUnleashed_Non_Rar_Se_Img.png"
+  },
+  "10741": {
+    "name": "Bora, Wielder of Rage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_BoraWielderOfRage/Shr_BoraWielderOfRage_Non_Lgn_Fe_Img.png"
+  },
+  "10742": {
+    "name": "Bora, Wielder of Rage [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_BoraWielderOfRage/Shr_BoraWielderOfRage_Non_Lgn_Se_Img.png"
+  },
+  "10743": {
+    "name": "Parallel Masterpiece // Alpha // Bora, Wielder of Rage",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_BoraWielderOfRage/Shr_BoraWielderOfRage_Non_Prm_Mp_Img.png"
+  },
+  "10744": {
+    "name": "Parallel Masterpiece // Alpha // Dark Dealings",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_DarkDealings/Shr_DarkDealings_Non_Prm_Mp_Img.png"
+  },
+  "10745": {
+    "name": "Dark Dealings Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_DarkDealingsConcept/Shr_DarkDealingsConcept_Non_Prm_Ac_Img.png"
+  },
+  "10746": {
+    "name": "Icon of Fate Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_IconOfFate/Shr_IconOfFate_Non_Prm_Cb_Img.png"
+  },
+  "10747": {
+    "name": "Parallel Masterpiece // Alpha // Sacred Destruction",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_SacredDestruction/Shr_SacredDestruction_Non_Prm_Mp_Img.png"
+  },
+  "10748": {
+    "name": "Sacred Destruction Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_SacredDestructionConcept/Shr_SacredDestructionConcept_Non_Prm_Ac_Img.png"
+  },
+  "10749": {
+    "name": "Parallel Masterpiece // Alpha // The Void Unleashed",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_TheVoidUnleashed/Shr_TheVoidUnleashed_Non_Prm_Mp_Img.png"
+  },
+  "10750": {
+    "name": "Parallel Masterpiece // Alpha // Voidrunner",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_Voidrunner/Shr_Voidrunner_Non_Prm_Mp_Img.png"
+  },
+  "10751": {
+    "name": "Artifact Appraiser",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_ArtifactAppraiser/Unv_ArtifactAppraiser_Non_Cmn_Fe_Img.png"
+  },
+  "10752": {
+    "name": "Artifact Appraiser [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_ArtifactAppraiser/Unv_ArtifactAppraiser_Non_Cmn_Se_Img.png"
+  },
+  "10753": {
+    "name": "Reckless Scientist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_RecklessScientist/Unv_RecklessScientist_Non_Cmn_Fe_Img.png"
+  },
+  "10754": {
+    "name": "Reckless Scientist [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_RecklessScientist/Unv_RecklessScientist_Non_Cmn_Se_Img.png"
+  },
+  "10755": {
+    "name": "Supply and Demand",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SupplyAndDemand/Unv_SupplyAndDemand_Non_Cmn_Fe_Img.png"
+  },
+  "10756": {
+    "name": "Supply and Demand [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SupplyAndDemand/Unv_SupplyAndDemand_Non_Cmn_Se_Img.png"
+  },
+  "10757": {
+    "name": "Cunning Diplomat",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CunningDiplomat/Unv_CunningDiplomat_Non_Ucm_Fe_Img.png"
+  },
+  "10758": {
+    "name": "Cunning Diplomat [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CunningDiplomat/Unv_CunningDiplomat_Non_Ucm_Se_Img.png"
+  },
+  "10759": {
+    "name": "Defiant Clone",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DefiantClone/Unv_DefiantClone_Non_Ucm_Fe_Img.png"
+  },
+  "10760": {
+    "name": "Defiant Clone [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DefiantClone/Unv_DefiantClone_Non_Ucm_Se_Img.png"
+  },
+  "10761": {
+    "name": "Double Agent",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DoubleAgent/Unv_DoubleAgent_Non_Ucm_Fe_Img.png"
+  },
+  "10762": {
+    "name": "Double Agent [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DoubleAgent/Unv_DoubleAgent_Non_Ucm_Se_Img.png"
+  },
+  "10763": {
+    "name": "Premonition",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Premonition/Unv_Premonition_Non_Ucm_Fe_Img.png"
+  },
+  "10764": {
+    "name": "Premonition [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Premonition/Unv_Premonition_Non_Ucm_Se_Img.png"
+  },
+  "10765": {
+    "name": "Freydis, Echelon Kingpin",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_FreydisEchelonKingpin/Unv_FreydisEchelonKingpin_Non_Lgn_Fe_Img.png"
+  },
+  "10766": {
+    "name": "Freydis, Echelon Kingpin [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_FreydisEchelonKingpin/Unv_FreydisEchelonKingpin_Non_Lgn_Se_Img.png"
+  },
+  "10767": {
+    "name": "Rangsei, Master Imposter",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_RangseiMasterImposter/Unv_RangseiMasterImposter_Non_Lgn_Fe_Img.png"
+  },
+  "10768": {
+    "name": "Rangsei, Master Imposter [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_RangseiMasterImposter/Unv_RangseiMasterImposter_Non_Lgn_Se_Img.png"
+  },
+  "10769": {
+    "name": "Wong, Purveyor of Curiosities",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_WongPurveyorOfCuriosities/Unv_WongPurveyorOfCuriosities_Non_Lgn_Fe_Img.png"
+  },
+  "10770": {
+    "name": "Wong, Purveyor of Curiosities [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_WongPurveyorOfCuriosities/Unv_WongPurveyorOfCuriosities_Non_Lgn_Se_Img.png"
+  },
+  "10771": {
+    "name": "Parallel Masterpiece // Alpha // Artifact Appraiser",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_ArtifactAppraiser/Unv_ArtifactAppraiser_Non_Prm_Mp_Img.png"
+  },
+  "10772": {
+    "name": "Artifact Appraiser Concept Art",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_ArtifactAppraiserConcept/Unv_ArtifactAppraiserConcept_Non_Prm_Ac_Img.png"
+  },
+  "10773": {
+    "name": "Parallel Masterpiece // Alpha // Cunning Diplomat",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CunningDiplomat/Unv_CunningDiplomat_Non_Prm_Mp_Img.png"
+  },
+  "10774": {
+    "name": "Parallel Masterpiece // Alpha // Defiant Clone",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DefiantClone/Unv_DefiantClone_Non_Prm_Mp_Img.png"
+  },
+  "10775": {
+    "name": "Parallel Masterpiece // Alpha // Double Agent",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_DoubleAgent/Unv_DoubleAgent_Non_Prm_Mp_Img.png"
+  },
+  "10776": {
+    "name": "Parallel Masterpiece // Alpha // Freydis, Echelon Kingpin",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_FreydisEchelonKingpin/Unv_FreydisEchelonKingpin_Non_Prm_Mp_Img.png"
+  },
+  "10777": {
+    "name": "Parallel Masterpiece // Alpha // Premonition",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Premonition/Unv_Premonition_Non_Prm_Mp_Img.png"
+  },
+  "10778": {
+    "name": "Parallel Masterpiece // Alpha // Rangsei, Master Imposter",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_RangseiMasterImposter/Unv_RangseiMasterImposter_Non_Prm_Mp_Img.png"
+  },
+  "10779": {
+    "name": "Parallel Masterpiece // Alpha // Reckless Scientist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_RecklessScientist/Unv_RecklessScientist_Non_Prm_Mp_Img.png"
+  },
+  "10780": {
+    "name": "Parallel Masterpiece // Alpha // Supply and Demand",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SupplyAndDemand/Unv_SupplyAndDemand_Non_Prm_Mp_Img.png"
+  },
+  "10781": {
+    "name": "Parallel Masterpiece // Alpha // Wong, Purveyor of Curiosities",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_WongPurveyorOfCuriosities/Unv_WongPurveyorOfCuriosities_Non_Prm_Mp_Img.png"
+  },
+  "10782": {
+    "name": "Surge Key",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SurgeKey/Unv_SurgeKey_Non_Prm_As_Vid.gif"
+  },
+  "10783": {
+    "name": "Ship's Armory [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ShipsArmory/Agc_ShipsArmory_Non_Rar_Pl_Vid.gif"
+  },
+  "10784": {
+    "name": "Ship's Armory [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ShipsArmory/Agc_ShipsArmory_Drk_Rar_Se_Img.png"
+  },
+  "10785": {
+    "name": "Ship's Armory [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ShipsArmory/Agc_ShipsArmory_Lgt_Rar_Se_Img.png"
+  },
+  "10786": {
+    "name": "HDT-01 Helmet Collectible Card Back",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HDT01Helmet/Agc_HDT01Helmet_Non_Prm_Cb_Vid.gif"
+  },
+  "10787": {
+    "name": "Hopper Dropteam Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HopperDropteam/Agc_HopperDropteam_Non_Prm_Cb_Img.png"
+  },
+  "10788": {
+    "name": "Planetary Ambition Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_PlanetaryAmbitionAug/Agc_PlanetaryAmbitionAug_Non_Prm_Cb_Img.png"
+  },
+  "10789": {
+    "name": "Stoic Sellsword",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_StoicSellsword/Unv_StoicSellsword_Non_Cmn_Fe_Img.png"
+  },
+  "10790": {
+    "name": "Stoic Sellsword [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_StoicSellsword/Unv_StoicSellsword_Non_Cmn_Se_Img.png"
+  },
+  "10791": {
+    "name": "Parallel Masterpiece // Alpha // Stoic Sellsword",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_StoicSellsword/Unv_StoicSellsword_Non_Prm_Mp_Img.png"
+  },
+  "10792": {
+    "name": "Aetian Subjugate [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AetianSubjugate/Kat_AetianSubjugate_Non_Ucm_Pl_Vid.gif"
+  },
+  "10793": {
+    "name": "Aetian Subjugate",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AetianSubjugate/Kat_AetianSubjugate_Non_Ucm_Fe_Img.png"
+  },
+  "10794": {
+    "name": "Aetian Subjugate [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AetianSubjugate/Kat_AetianSubjugate_Non_Ucm_Se_Img.png"
+  },
+  "10795": {
+    "name": "Alkaline Hydrolist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AlkalineHydrolist/Kat_AlkalineHydrolist_Non_Cmn_Fe_Img.png"
+  },
+  "10796": {
+    "name": "Alkaline Hydrolist [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AlkalineHydrolist/Kat_AlkalineHydrolist_Non_Cmn_Se_Img.png"
+  },
+  "10797": {
+    "name": "Arrisah Skyscout",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ArrisahSkyscout/Ert_ArrisahSkyscout_Non_Rar_Fe_Img.png"
+  },
+  "10798": {
+    "name": "Arrisah Skyscout [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ArrisahSkyscout/Ert_ArrisahSkyscout_Non_Rar_Se_Img.png"
+  },
+  "10799": {
+    "name": "Automation Expert",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_AutomationExpert/Agc_AutomationExpert_Non_Cmn_Fe_Img.png"
+  },
+  "10800": {
+    "name": "Automation Expert [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_AutomationExpert/Agc_AutomationExpert_Non_Cmn_Se_Img.png"
+  },
+  "10801": {
+    "name": "Beacon of Gnaeus",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_BeaconOfGnaeus/Kat_BeaconOfGnaeus_Non_Cmn_Fe_Img.png"
+  },
+  "10802": {
+    "name": "Beacon of Gnaeus [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_BeaconOfGnaeus/Kat_BeaconOfGnaeus_Non_Cmn_Se_Img.png"
+  },
+  "10803": {
+    "name": "Beseech The Gifted",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_BeseechTheGifted/Shr_BeseechTheGifted_Non_Ucm_Fe_Img.png"
+  },
+  "10804": {
+    "name": "Beseech The Gifted [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_BeseechTheGifted/Shr_BeseechTheGifted_Non_Ucm_Se_Img.png"
+  },
+  "10805": {
+    "name": "Beseech The Gifted [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_BeseechTheGifted/Shr_BeseechTheGifted_Non_Ucm_Pl_Vid.gif"
+  },
+  "10806": {
+    "name": "Black Market Fixer [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_BlackMarketFixer/Unv_BlackMarketFixer_Non_Ucm_Pl_Vid.gif"
+  },
+  "10807": {
+    "name": "Black Market Fixer",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_BlackMarketFixer/Unv_BlackMarketFixer_Non_Ucm_Fe_Img.png"
+  },
+  "10808": {
+    "name": "Black Market Fixer [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_BlackMarketFixer/Unv_BlackMarketFixer_Non_Ucm_Se_Img.png"
+  },
+  "10809": {
+    "name": "Cape of Char Mahal",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_CapeOfCharMahal/Ert_CapeOfCharMahal_Non_Cmn_Fe_Img.png"
+  },
+  "10810": {
+    "name": "Cape of Char Mahal [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_CapeOfCharMahal/Ert_CapeOfCharMahal_Non_Cmn_Se_Img.png"
+  },
+  "10811": {
+    "name": "Crew Boss [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CrewBoss/Unv_CrewBoss_Non_Ucm_Pl_Vid.gif"
+  },
+  "10812": {
+    "name": "Crew Boss",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CrewBoss/Unv_CrewBoss_Non_Ucm_Fe_Img.png"
+  },
+  "10813": {
+    "name": "Crew Boss [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CrewBoss/Unv_CrewBoss_Non_Ucm_Se_Img.png"
+  },
+  "10814": {
+    "name": "Drusian Exhorator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_DrusianExhorator/Kat_DrusianExhorator_Non_Rar_Fe_Img.png"
+  },
+  "10815": {
+    "name": "Drusian Exhorator [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_DrusianExhorator/Kat_DrusianExhorator_Non_Rar_Se_Img.png"
+  },
+  "10816": {
+    "name": "Emissary of Gaffar",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EmissaryOfGaffar/Ert_EmissaryOfGaffar_Non_Rar_Fe_Img.png"
+  },
+  "10817": {
+    "name": "Emissary of Gaffar [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EmissaryOfGaffar/Ert_EmissaryOfGaffar_Non_Rar_Se_Img.png"
+  },
+  "10818": {
+    "name": "Exposed Secrets",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ExposedSecrets/Shr_ExposedSecrets_Non_Ucm_Fe_Img.png"
+  },
+  "10819": {
+    "name": "Exposed Secrets [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ExposedSecrets/Shr_ExposedSecrets_Non_Ucm_Se_Img.png"
+  },
+  "10820": {
+    "name": "Fire Support Base",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_FireSupportBase/Mcl_FireSupportBase_Non_Cmn_Fe_Img.png"
+  },
+  "10821": {
+    "name": "Fire Support Base [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_FireSupportBase/Mcl_FireSupportBase_Non_Cmn_Se_Img.png"
+  },
+  "10822": {
+    "name": "Heroic Pilot",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HeroicPilot/Agc_HeroicPilot_Non_Cmn_Fe_Img.png"
+  },
+  "10823": {
+    "name": "Heroic Pilot [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HeroicPilot/Agc_HeroicPilot_Non_Cmn_Se_Img.png"
+  },
+  "10824": {
+    "name": "Hijack [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Hijack/Unv_Hijack_Non_Lgn_Pl_Vid.gif"
+  },
+  "10825": {
+    "name": "Hijack",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Hijack/Unv_Hijack_Non_Lgn_Fe_Img.png"
+  },
+  "10826": {
+    "name": "Hijack [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Hijack/Unv_Hijack_Non_Lgn_Se_Img.png"
+  },
+  "10827": {
+    "name": "Improvised Tactics",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ImprovisedTactics/Mcl_ImprovisedTactics_Non_Cmn_Fe_Img.png"
+  },
+  "10828": {
+    "name": "Improvised Tactics [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ImprovisedTactics/Mcl_ImprovisedTactics_Non_Cmn_Se_Img.png"
+  },
+  "10829": {
+    "name": "Leonid, Wielder of Corruption",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_LeonidWielderOfCorruption/Shr_LeonidWielderOfCorruption_Non_Lgn_Fe_Img.png"
+  },
+  "10830": {
+    "name": "Leonid, Wielder of Corruption [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_LeonidWielderOfCorruption/Shr_LeonidWielderOfCorruption_Non_Lgn_Se_Img.png"
+  },
+  "10831": {
+    "name": "Life Siphon",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_LifeSiphon/Shr_LifeSiphon_Non_Cmn_Fe_Img.png"
+  },
+  "10832": {
+    "name": "Life Siphon [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_LifeSiphon/Shr_LifeSiphon_Non_Cmn_Se_Img.png"
+  },
+  "10833": {
+    "name": "Loyal Comrade",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_LoyalComrade/Mcl_LoyalComrade_Non_Rar_Fe_Img.png"
+  },
+  "10834": {
+    "name": "Loyal Comrade [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_LoyalComrade/Mcl_LoyalComrade_Non_Rar_Se_Img.png"
+  },
+  "10835": {
+    "name": "Mizra Loyalist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_MizraLoyalist/Ert_MizraLoyalist_Non_Rar_Fe_Img.png"
+  },
+  "10836": {
+    "name": "Mizra Loyalist [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_MizraLoyalist/Ert_MizraLoyalist_Non_Rar_Se_Img.png"
+  },
+  "10837": {
+    "name": "Mortal Echo [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_MortalEcho/Shr_MortalEcho_Non_Rar_Pl_Vid.gif"
+  },
+  "10838": {
+    "name": "Mortal Echo",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_MortalEcho/Shr_MortalEcho_Non_Rar_Fe_Img.png"
+  },
+  "10839": {
+    "name": "Mortal Echo [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_MortalEcho/Shr_MortalEcho_Non_Rar_Se_Img.png"
+  },
+  "10840": {
+    "name": "Mournful Delta",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_MournfulDelta/Kat_MournfulDelta_Non_Rar_Fe_Img.png"
+  },
+  "10841": {
+    "name": "Mournful Delta [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_MournfulDelta/Kat_MournfulDelta_Non_Rar_Se_Img.png"
+  },
+  "10842": {
+    "name": "Ottius, Cytokinetic Legate",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_OttiusCytokineticLegate/Kat_OttiusCytokineticLegate_Non_Lgn_Fe_Img.png"
+  },
+  "10843": {
+    "name": "Ottius, Cytokinetic Legate [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_OttiusCytokineticLegate/Kat_OttiusCytokineticLegate_Non_Lgn_Se_Img.png"
+  },
+  "10844": {
+    "name": "Pirate Junker",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PirateJunker/Unv_PirateJunker_Non_Cmn_Fe_Img.png"
+  },
+  "10845": {
+    "name": "Pirate Junker [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PirateJunker/Unv_PirateJunker_Non_Cmn_Se_Img.png"
+  },
+  "10846": {
+    "name": "PS-8 Launcher",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PS8Launcher/Unv_PS8Launcher_Non_Ucm_Fe_Img.png"
+  },
+  "10847": {
+    "name": "PS-8 Launcher [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PS8Launcher/Unv_PS8Launcher_Non_Ucm_Se_Img.png"
+  },
+  "10848": {
+    "name": "Pyrrhic Victory [PL]",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PyrrhicVictory/Unv_PyrrhicVictory_Non_Ucm_Pl_Vid.gif"
+  },
+  "10849": {
+    "name": "Pyrrhic Victory",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PyrrhicVictory/Unv_PyrrhicVictory_Non_Ucm_Fe_Img.png"
+  },
+  "10850": {
+    "name": "Pyrrhic Victory [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PyrrhicVictory/Unv_PyrrhicVictory_Non_Ucm_Se_Img.png"
+  },
+  "10851": {
+    "name": "Sanctuary",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Sanctuary/Unv_Sanctuary_Non_Lgn_Fe_Img.png"
+  },
+  "10852": {
+    "name": "Sanctuary [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Sanctuary/Unv_Sanctuary_Non_Lgn_Se_Img.png"
+  },
+  "10853": {
+    "name": "Second Chance",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SecondChance/Unv_SecondChance_Lgt_Cmn_Fe_Img.png"
+  },
+  "10854": {
+    "name": "Second Chance [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SecondChance/Unv_SecondChance_Lgt_Cmn_Se_Img.png"
+  },
+  "10855": {
+    "name": "Second Chance",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SecondChance/Unv_SecondChance_Drk_Cmn_Fe_Img.png"
+  },
+  "10856": {
+    "name": "Second Chance [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SecondChance/Unv_SecondChance_Drk_Cmn_Se_Img.png"
+  },
+  "10857": {
+    "name": "Security Officer",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_SecurityOfficer/Agc_SecurityOfficer_Non_Cmn_Fe_Img.png"
+  },
+  "10858": {
+    "name": "Security Officer [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_SecurityOfficer/Agc_SecurityOfficer_Non_Cmn_Se_Img.png"
+  },
+  "10859": {
+    "name": "Ship's Armory",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ShipsArmory/Agc_ShipsArmory_Drk_Rar_Fe_Img.png"
+  },
+  "10860": {
+    "name": "Ship's Armory",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ShipsArmory/Agc_ShipsArmory_Lgt_Rar_Fe_Img.png"
+  },
+  "10861": {
+    "name": "Shoshanna's Standard",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ShoshannasStandard/Ert_ShoshannasStandard_Non_Rar_Fe_Img.png"
+  },
+  "10862": {
+    "name": "Shoshanna's Standard [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ShoshannasStandard/Ert_ShoshannasStandard_Non_Rar_Se_Img.png"
+  },
+  "10863": {
+    "name": "Sower of Unrest",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_SowerOfUnrest/Ert_SowerOfUnrest_Non_Ucm_Fe_Img.png"
+  },
+  "10864": {
+    "name": "Sower of Unrest [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_SowerOfUnrest/Ert_SowerOfUnrest_Non_Ucm_Se_Img.png"
+  },
+  "10865": {
+    "name": "Tactical Display",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_TacticalDisplay/Mcl_TacticalDisplay_Non_Ucm_Fe_Img.png"
+  },
+  "10866": {
+    "name": "Tactical Display [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_TacticalDisplay/Mcl_TacticalDisplay_Non_Ucm_Se_Img.png"
+  },
+  "10867": {
+    "name": "Tane, Shield of Meev'Tsar",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_TaneShieldOfMeevTsar/Ert_TaneShieldOfMeevTsar_Non_Lgn_Fe_Img.png"
+  },
+  "10868": {
+    "name": "Tane, Shield of Meev'Tsar [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_TaneShieldOfMeevTsar/Ert_TaneShieldOfMeevTsar_Non_Lgn_Se_Img.png"
+  },
+  "10869": {
+    "name": "Technophobic Warrior",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TechnophobicWarrior/Unv_TechnophobicWarrior_Non_Cmn_Fe_Img.png"
+  },
+  "10870": {
+    "name": "Technophobic Warrior [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TechnophobicWarrior/Unv_TechnophobicWarrior_Non_Cmn_Se_Img.png"
+  },
+  "10871": {
+    "name": "Universal Soldier",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_UniversalSoldier/Unv_UniversalSoldier_Non_Ucm_Fe_Img.png"
+  },
+  "10872": {
+    "name": "Universal Soldier [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_UniversalSoldier/Unv_UniversalSoldier_Non_Ucm_Se_Img.png"
+  },
+  "10873": {
+    "name": "Unseen Allies",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_UnseenAllies/Shr_UnseenAllies_Non_Cmn_Fe_Img.png"
+  },
+  "10874": {
+    "name": "Unseen Allies [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_UnseenAllies/Shr_UnseenAllies_Non_Cmn_Se_Img.png"
+  },
+  "10875": {
+    "name": "Shepherd of the Fallen",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ShepherdOfTheFallen/Shr_ShepherdOfTheFallen_Non_Rar_Fe_Img.png"
+  },
+  "10876": {
+    "name": "Shepherd of the Fallen [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ShepherdOfTheFallen/Shr_ShepherdOfTheFallen_Non_Rar_Se_Img.png"
+  },
+  "10877": {
+    "name": "Zealous Machinist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ZealousMachinist/Agc_ZealousMachinist_Non_Ucm_Fe_Img.png"
+  },
+  "10878": {
+    "name": "Zealous Machinist [SE]",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ZealousMachinist/Agc_ZealousMachinist_Non_Ucm_Se_Img.png"
+  },
+  "10879": {
+    "name": "Parallel Masterpiece // Alpha // Aetian Subjugate",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AetianSubjugate/Kat_AetianSubjugate_Non_Prm_Mp_Vid.gif"
+  },
+  "10880": {
+    "name": "Parallel Masterpiece // Alpha // Alkaline Hydrolist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_AlkalineHydrolist/Kat_AlkalineHydrolist_Non_Prm_Mp_Img.png"
+  },
+  "10881": {
+    "name": "Parallel Masterpiece // Alpha // Arrisah Skyscout",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ArrisahSkyscout/Ert_ArrisahSkyscout_Non_Prm_Mp_Img.png"
+  },
+  "10882": {
+    "name": "Parallel Masterpiece // Alpha // Automation Expert",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_AutomationExpert/Agc_AutomationExpert_Non_Prm_Mp_Img.png"
+  },
+  "10883": {
+    "name": "Parallel Masterpiece // Alpha // Beacon of Gnaeus",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_BeaconOfGnaeus/Kat_BeaconOfGnaeus_Non_Prm_Mp_Img.png"
+  },
+  "10884": {
+    "name": "Parallel Masterpiece // Alpha // Beseech The Gifted",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_BeseechTheGifted/Shr_BeseechTheGifted_Non_Prm_Mp_Vid.gif"
+  },
+  "10885": {
+    "name": "Parallel Masterpiece // Alpha // Black Market Fixer",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_BlackMarketFixer/Unv_BlackMarketFixer_Non_Prm_Mp_Vid.gif"
+  },
+  "10886": {
+    "name": "Parallel Masterpiece // Alpha // Cape of Char Mahal",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_CapeOfCharMahal/Ert_CapeOfCharMahal_Non_Prm_Mp_Img.png"
+  },
+  "10887": {
+    "name": "Parallel Masterpiece // Alpha // Crew Boss",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_CrewBoss/Unv_CrewBoss_Non_Prm_Mp_Vid.gif"
+  },
+  "10888": {
+    "name": "Parallel Masterpiece // Alpha // Drusian Exhorator",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_DrusianExhorator/Kat_DrusianExhorator_Non_Prm_Mp_Img.png"
+  },
+  "10889": {
+    "name": "Parallel Masterpiece // Alpha // Emissary of Gaffar",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EmissaryOfGaffar/Ert_EmissaryOfGaffar_Non_Prm_Mp_Img.png"
+  },
+  "10890": {
+    "name": "Parallel Masterpiece // Alpha // Exposed Secrets",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ExposedSecrets/Shr_ExposedSecrets_Non_Prm_Mp_Img.png"
+  },
+  "10891": {
+    "name": "Parallel Masterpiece // Alpha // Fire Support Base",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_FireSupportBase/Mcl_FireSupportBase_Non_Prm_Mp_Img.png"
+  },
+  "10892": {
+    "name": "Parallel Masterpiece // Alpha // Heroic Pilot",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_HeroicPilot/Agc_HeroicPilot_Non_Prm_Mp_Img.png"
+  },
+  "10893": {
+    "name": "Parallel Masterpiece // Alpha // Hijack",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Hijack/Unv_Hijack_Non_Prm_Mp_Vid.gif"
+  },
+  "10894": {
+    "name": "Parallel Masterpiece // Alpha // Improvised Tactics",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ImprovisedTactics/Mcl_ImprovisedTactics_Non_Prm_Mp_Img.png"
+  },
+  "10895": {
+    "name": "Parallel Masterpiece // Alpha // Leonid, Wielder of Corruption",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_LeonidWielderOfCorruption/Shr_LeonidWielderOfCorruption_Non_Prm_Mp_Img.png"
+  },
+  "10896": {
+    "name": "Parallel Masterpiece // Alpha // Life Siphon",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_LifeSiphon/Shr_LifeSiphon_Non_Prm_Mp_Img.png"
+  },
+  "10897": {
+    "name": "Parallel Masterpiece // Alpha // Loyal Comrade",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_LoyalComrade/Mcl_LoyalComrade_Non_Prm_Mp_Img.png"
+  },
+  "10898": {
+    "name": "Parallel Masterpiece // Alpha // Mizra Loyalist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_MizraLoyalist/Ert_MizraLoyalist_Non_Prm_Mp_Img.png"
+  },
+  "10899": {
+    "name": "Parallel Masterpiece // Alpha // Mortal Echo",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_MortalEcho/Shr_MortalEcho_Non_Prm_Mp_Vid.gif"
+  },
+  "10900": {
+    "name": "Parallel Masterpiece // Alpha // Mournful Delta",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_MournfulDelta/Kat_MournfulDelta_Non_Prm_Mp_Img.png"
+  },
+  "10901": {
+    "name": "Parallel Masterpiece // Alpha // Ottius, Cytokinetic Legate",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_OttiusCytokineticLegate/Kat_OttiusCytokineticLegate_Non_Prm_Mp_Img.png"
+  },
+  "10902": {
+    "name": "Parallel Masterpiece // Alpha // Pirate Junker",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PirateJunker/Unv_PirateJunker_Non_Prm_Mp_Img.png"
+  },
+  "10903": {
+    "name": "Parallel Masterpiece // Alpha // PS-8 Launcher",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PS8Launcher/Unv_PS8Launcher_Non_Prm_Mp_Img.png"
+  },
+  "10904": {
+    "name": "Parallel Masterpiece // Alpha // Pyrrhic Victory",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PyrrhicVictory/Unv_PyrrhicVictory_Non_Prm_Mp_Vid.gif"
+  },
+  "10905": {
+    "name": "Parallel Masterpiece // Alpha // Sanctuary",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_Sanctuary/Unv_Sanctuary_Non_Prm_Mp_Img.png"
+  },
+  "10906": {
+    "name": "Parallel Masterpiece // Alpha // Second Chance",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_SecondChance/Unv_SecondChance_Non_Prm_Mp_Img.png"
+  },
+  "10907": {
+    "name": "Parallel Masterpiece // Alpha // Security Officer",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_SecurityOfficer/Agc_SecurityOfficer_Non_Prm_Mp_Img.png"
+  },
+  "10908": {
+    "name": "Parallel Masterpiece // Alpha // Ship's Armory",
+    "image": "https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ShipsArmory/Agc_ShipsArmory_Non_Prm_Mp_Vid.gif"
+  },
+  "10909": {
+    "name": "Parallel Masterpiece // Alpha // Shoshanna's Standard",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_ShoshannasStandard/Ert_ShoshannasStandard_Non_Prm_Mp_Img.png"
+  },
+  "10910": {
+    "name": "Parallel Masterpiece // Alpha // Sower of Unrest",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_SowerOfUnrest/Ert_SowerOfUnrest_Non_Prm_Mp_Img.png"
+  },
+  "10911": {
+    "name": "Parallel Masterpiece // Alpha // Tactical Display",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_TacticalDisplay/Mcl_TacticalDisplay_Non_Prm_Mp_Img.png"
+  },
+  "10912": {
+    "name": "Parallel Masterpiece // Alpha // Tane, Shield of Meev'Tsar",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_TaneShieldOfMeevTsar/Ert_TaneShieldOfMeevTsar_Non_Prm_Mp_Img.png"
+  },
+  "10913": {
+    "name": "Parallel Masterpiece // Alpha // Technophobic Warrior",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_TechnophobicWarrior/Unv_TechnophobicWarrior_Non_Prm_Mp_Img.png"
+  },
+  "10914": {
+    "name": "Parallel Masterpiece // Alpha // Universal Soldier",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_UniversalSoldier/Unv_UniversalSoldier_Non_Prm_Mp_Img.png"
+  },
+  "10915": {
+    "name": "Parallel Masterpiece // Alpha // Unseen Allies",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_UnseenAllies/Shr_UnseenAllies_Non_Prm_Mp_Img.png"
+  },
+  "10916": {
+    "name": "Parallel Masterpiece // Alpha // Shepherd of the Fallen",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ShepherdOfTheFallen/Shr_ShepherdOfTheFallen_Non_Rar_Mp_Img.png"
+  },
+  "10917": {
+    "name": "Parallel Masterpiece // Alpha // Zealous Machinist",
+    "image": "https://cdn.parallelnft.com/unsafe/600x750/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_ZealousMachinist/Agc_ZealousMachinist_Non_Prm_Mp_Img.png"
+  },
+  "10918": {
+    "name": "Augencore Interface Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_AugencoreInterfaceCB/Agc_AugencoreInterfaceCB_Non_Prm_Cb_Img.png"
+  },
+  "10919": {
+    "name": "Earthen Interface Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EarthenInterfaceCB/Ert_EarthenInterfaceCB_Non_Prm_Cb_Img.png"
+  },
+  "10920": {
+    "name": "Kathari Interface Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_KathariInterfaceCB/Kat_KathariInterfaceCB_Non_Prm_Cb_Img.png"
+  },
+  "10921": {
+    "name": "Marcolian Interface Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_MarcolianInterfaceCB/Mcl_MarcolianInterfaceCB_Non_Prm_Cb_Img.png"
+  },
+  "10922": {
+    "name": "Shroud Interface Collectible Card Back",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_ShroudInterfaceCB/Shr_ShroudInterfaceCB_Non_Prm_Cb_Img.png"
+  },
+  "10923": {
+    "name": "Armoured Division HQ Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ArmouredDivisionHq/Mcl_ArmouredDivisionHq_Non_Prm_Ac_Img.png"
+  },
+  "10924": {
+    "name": "Emissary Of Gaffar Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_EmissaryOfGaffarConcept/Ert_EmissaryOfGaffarConcept_Non_Prm_Ac_Img.png"
+  },
+  "10925": {
+    "name": "Improvised Tactics Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_ImprovisedTacticsConcept/Mcl_ImprovisedTacticsConcept_Non_Prm_Ac_Img.png"
+  },
+  "10926": {
+    "name": "Jahn, Chief Engineer Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Agc_JahnChiefEngineer/Agc_JahnChiefEngineer_Non_Prm_Ac_Img.png"
+  },
+  "10927": {
+    "name": "Lemieux, Master Commando Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Mcl_LemieuxMasterCommando/Mcl_LemieuxMasterCommando_Non_Prm_Ac_Img.png"
+  },
+  "10928": {
+    "name": "Nehemiah, Defender of Earth Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_NehemiahDefenderOfEarth/Ert_NehemiahDefenderOfEarth_Non_Prm_Ac_Img.png"
+  },
+  "10929": {
+    "name": "Niamh, Wielder of Faith Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Shr_NiamhWielderOfFaith/Shr_NiamhWielderOfFaith_Non_Prm_Ac_Img.png"
+  },
+  "10930": {
+    "name": "Pyrrhic Victory Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Unv_PyrrhicVictoryConcept/Unv_PyrrhicVictoryConcept_Non_Prm_Ac_Img.png"
+  },
+  "10931": {
+    "name": "Scipius Magnus Alpha Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Kat_ScipiusMagnusAlpha/Kat_ScipiusMagnusAlpha_Non_Prm_Ac_Img.png"
+  },
+  "10932": {
+    "name": "Tane Concept Art Card",
+    "image": "https://cdn.parallelnft.com/unsafe/600x900/https://prl-content-publish-prod.s3.amazonaws.com/Cards/Ert_TaneConcept/Ert_TaneConcept_Non_Prm_Ac_Img.png"
+  }
+}
