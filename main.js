@@ -27,7 +27,7 @@ async function listenToTransferBatch(channel) {
 
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
-        .setTitle("Trasfer batch")
+        .setTitle("Transfer batch")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(
           `${bold(`${R.sum(values)} cards:`)} ${ids
@@ -60,7 +60,7 @@ async function listenToTransferSingle(channel) {
 
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
-        .setTitle("Trasfer single")
+        .setTitle("Transfer single")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(`${bold(`1 card:`)} ${cards[id].name}`)
         .addFields(
