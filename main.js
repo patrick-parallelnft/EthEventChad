@@ -32,7 +32,7 @@ async function listenToTransferBatch(channel) {
         .setDescription(
           `${bold(`${R.sum(values)} cards:`)} ${ids
             .map((id, i) => `${values[i]} ${cards[id].name}`)
-            .join(", ")} have been transfered.`
+            .join(", ")}`
         )
         .addFields(
           { name: "From", value: from },
@@ -62,9 +62,7 @@ async function listenToTransferSingle(channel) {
         .setColor(0x0099ff)
         .setTitle("Trasfer single")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
-        .setDescription(
-          `${bold(`1 card:`)} ${cards[id].name} has been transfered.`
-        )
+        .setDescription(`${bold(`1 card:`)} ${cards[id].name}`)
         .addFields(
           { name: "From", value: from },
           {
