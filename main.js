@@ -23,14 +23,12 @@ async function listenToTransferBatch(channel) {
   parallel_alpha_contract.on(
     "TransferBatch",
     (operartor, from, to, ids, values, res) => {
-      console.log("res", JSON.stringify(res));
-
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
         .setTitle("Transfer batch")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(
-          `${bold(`${R.sum(values)} cards:`)} ${ids
+          `${bold(`${R.sum(values)} cards:`)}\n${ids
             .map((id, i) => `${values[i]} ${cards[id].name}`)
             .join(", ")}`
         )
@@ -56,13 +54,11 @@ async function listenToTransferSingle(channel) {
   parallel_alpha_contract.on(
     "TransferSingle",
     (operartor, from, to, id, value, res) => {
-      console.log("res", JSON.stringify(res));
-
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
         .setTitle("Transfer single")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
-        .setDescription(`${bold(`1 card:`)} ${cards[id].name}`)
+        .setDescription(`${cards[id].name}`)
         .addFields(
           { name: "From", value: from },
           {
