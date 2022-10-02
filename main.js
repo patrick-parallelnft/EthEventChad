@@ -14,6 +14,7 @@ client.once("ready", async () => {
 
   listenToTransferBatch(channel);
   listenToTransferSingle(channel);
+  //   mockTransferSingle(channel);
 });
 
 // Login to Discord with your client's token
@@ -25,14 +26,16 @@ async function getTxnValue(hash) {
 }
 
 async function makeFields(operartor, from, to, res) {
-  return [
+  const fields = [
     {
       name: operartor === from ? "From & Operartor" : "From",
-      value: from,
+      value: `[${
+        addreses[from] || from
+      }](https://etherscan.io/address/${from})`,
     },
     {
       name: operartor === to ? "To & Operartor" : "To",
-      value: `[${to}](https://etherscan.io/address/${to})`,
+      value: `[${addreses[to] || to}](https://etherscan.io/address/${to})`,
     },
     operartor === to || operartor === from
       ? null
@@ -47,12 +50,16 @@ async function makeFields(operartor, from, to, res) {
           value: await getTxnValue(res.transactionHash),
         },
   ].filter((it) => !!it);
+  console.log("fileds", fields);
+  return fields;
 }
 
 async function listenToTransferBatch(channel) {
   parallel_alpha_contract.on(
     "TransferBatch",
     async (operartor, from, to, ids, values, res) => {
+      const fields = await makeFields(operartor, from, to, res);
+
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
         .setTitle("Transfer batch")
@@ -62,7 +69,7 @@ async function listenToTransferBatch(channel) {
             .map((id, i) => `${values[i]} ${cards[id].name}`)
             .join(", ")}`
         )
-        .addFields(await makeFields(operartor, from, to, res))
+        .addFields(...fields)
         .setTimestamp();
 
       channel.send({ embeds: [exampleEmbed] });
@@ -73,17 +80,41 @@ async function listenToTransferBatch(channel) {
 async function listenToTransferSingle(channel) {
   parallel_alpha_contract.on(
     "TransferSingle",
-    (operartor, from, to, id, value, res) => {
+    async (operartor, from, to, id, value, res) => {
+      const fields = await makeFields(operartor, from, to, res);
+
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
         .setTitle("Transfer single")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(`${cards[id].name}`)
-        .addFields(makeFields(operartor, from, to, res))
+        .addFields(...fields)
         .setImage(cards[id]?.image)
         .setTimestamp();
 
       channel.send({ embeds: [exampleEmbed] });
     }
   );
+}
+
+async function mockTransferSingle(channel) {
+  const operartor = "0x234";
+  const from = "0x234";
+  const to = "0x123";
+  const id = 9;
+  const res = {
+    transactionHash: "0x456",
+  };
+
+  const fields = await makeFields(operartor, from, to, res);
+  const exampleEmbed = new EmbedBuilder()
+    .setColor(0x0099ff)
+    .setTitle("Transfer single")
+    .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
+    .setDescription(`${cards[id].name}`)
+    .addFields(...fields)
+    .setImage(cards[id]?.image)
+    .setTimestamp();
+
+  channel.send({ embeds: [exampleEmbed] });
 }
