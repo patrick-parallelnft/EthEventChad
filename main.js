@@ -7,6 +7,14 @@ const addreses = require("./data/known_address.json");
 const R = require("ramda");
 const ethers = require("ethers");
 
+const express = require("express");
+const app = express();
+const port = process.env.PORT || 3001;
+
+app.get("/", (req, res) => res.send("live"));
+
+app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 client.once("ready", async () => {
