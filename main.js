@@ -5,6 +5,7 @@ const { parallel_alpha_contract, provider } = require("./alchemy");
 const cards = require("./data/cards.json");
 const addreses = require("./data/known_address.json");
 const R = require("ramda");
+const ethers = require("ethers");
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
@@ -23,7 +24,7 @@ client.login(process.env.DISCORD_TOKEN);
 // value could be 0 if paid by WETH
 async function getTxnValue(hash) {
   const txn = await provider.getTransaction(hash);
-  return txn.value.toString();
+  return ethers.utils.formatEther(txn.value);
 }
 
 async function makeFields(operartor, from, to, res) {
@@ -48,10 +49,9 @@ async function makeFields(operartor, from, to, res) {
       ? null
       : {
           name: "Value",
-          value: await getTxnValue(res.transactionHash),
+          value: (await getTxnValue(res.transactionHash)) + " Ξ",
         },
   ].filter((it) => !!it);
-  console.log("fileds", fields);
   return fields;
 }
 
@@ -99,12 +99,13 @@ async function listenToTransferSingle(channel) {
 }
 
 async function mockTransferSingle(channel) {
-  const operartor = "0x234";
+  const operartor = "0x1E0049783F008A0085193E00003D00cd54003c71";
   const from = "0x234";
   const to = "0x123";
   const id = 9;
   const res = {
-    transactionHash: "0x456",
+    transactionHash:
+      "0xcd46f298486eea2056023cf3851d7e19e19ecfbb7470a6fd2cf4322cf146f53d",
   };
 
   const fields = await makeFields(operartor, from, to, res);
