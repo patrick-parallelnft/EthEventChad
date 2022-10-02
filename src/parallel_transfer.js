@@ -30,7 +30,9 @@ async function makeFields(operartor, from, to, res) {
       ? null
       : {
           name: "Operator",
-          value: addreses[operartor] ?? operartor,
+          value: `[${
+            addreses[operartor] || operartor
+          }](https://etherscan.io/address/${operartor})`,
         },
     addreses[operartor] !== "Opensea"
       ? null
