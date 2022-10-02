@@ -5,6 +5,9 @@ const addreses = require("../data/known_address.json");
 const R = require("ramda");
 const ethers = require("ethers");
 
+const WETH = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2";
+const USDC = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
+
 // value could be 0 if paid by WETH
 async function getTxnValue(hash) {
   const txn = await provider.getTransaction(hash);
@@ -33,10 +36,38 @@ async function makeFields(operartor, from, to, res) {
       ? null
       : {
           name: "Value",
-          value: (await getTxnValue(res.transactionHash)) + " Ξ",
+          value: await getOpenseaPrice(res),
         },
   ].filter((it) => !!it);
   return fields;
+}
+
+async function getOpenseaPrice(res) {
+  const ethValue = await getTxnValue(res.transactionHash);
+  let wethValue = 0;
+  let usdcValue = 0;
+  let price = "Failed to fetch price";
+
+  if (Number.parseFloat(ethValue) === 0) {
+    const receipt = await provider.getTransactionReceipt(res.transactionHash);
+    const wethLogs = receipt.logs.filter((it) => it.address === WETH);
+
+    if (wethLogs.length > 0) {
+      wethValue = Number.parseInt(wethLogs[0].data) / 1e18;
+      price = `${wethValue} WETH`;
+    }
+
+    const usdcLogs = receipt.logs.filter((it) => it.address === USDC);
+
+    if (usdcLogs.length > 0) {
+      usdcValue = Number.parseInt(usdcLogs[0].data) / 1e6;
+      price = `${usdcValue} USDC`;
+    }
+  } else {
+    price = `${ethValue} Ξ`;
+  }
+
+  return price;
 }
 
 async function listenToTransferBatch(channel) {
@@ -89,7 +120,7 @@ async function mockTransferSingle(channel) {
   const id = 9;
   const res = {
     transactionHash:
-      "0xcd46f298486eea2056023cf3851d7e19e19ecfbb7470a6fd2cf4322cf146f53d",
+      "0xea4daf5f4939967b8b2dad342b20d774d06f472006912449f7a6c1f6305aa5d3",
   };
 
   const fields = await makeFields(operartor, from, to, res);

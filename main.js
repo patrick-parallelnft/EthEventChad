@@ -4,6 +4,7 @@ const { Client, GatewayIntentBits } = require("discord.js");
 const {
   listenToTransferBatch,
   listenToTransferSingle,
+  mockTransferSingle,
 } = require("./src/parallel_transfer.js");
 const { provider } = require("./src/alchemy.js");
 
@@ -50,6 +51,7 @@ client.once("ready", async () => {
 
   listenToTransferBatch(channel);
   listenToTransferSingle(channel);
+  // mockTransferSingle(channel);
 });
 
 // Login to Discord with your client's token
