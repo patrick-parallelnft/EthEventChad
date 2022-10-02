@@ -19,7 +19,9 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 client.once("ready", async () => {
   console.log("Ready!");
-  const channel = await client.channels.fetch(process.env.CHANNEL_TEST_BOT);
+  const channel = await client.channels.fetch(
+    process.env.CHANNEL_PARALLEL_TRANSFER_EVENT
+  );
 
   listenToTransferBatch(channel);
   listenToTransferSingle(channel);
