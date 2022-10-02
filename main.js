@@ -20,9 +20,10 @@ client.once("ready", async () => {
 // Login to Discord with your client's token
 client.login(process.env.DISCORD_TOKEN);
 
+// value could be 0 if paid by WETH
 async function getTxnValue(hash) {
   const txn = await provider.getTransaction(hash);
-  return txn.value;
+  return txn.value.toString();
 }
 
 async function makeFields(operartor, from, to, res) {
