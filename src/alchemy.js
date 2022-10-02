@@ -1,7 +1,7 @@
 // Setup: npm install alchemy-sdk
 const { Network, Alchemy } = require("alchemy-sdk");
 const { ethers } = require("ethers");
-const parallel_alpha_abi = require("./abi/parallel_alpha.json");
+const parallel_alpha_abi = require("../abi/parallel_alpha.json");
 
 // Optional Config object, but defaults to demo api-key and eth-mainnet.
 const settings = {
