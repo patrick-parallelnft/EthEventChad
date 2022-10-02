@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 const { Client, GatewayIntentBits, bold, EmbedBuilder } = require("discord.js");
-const { parallel_alpha_contract } = require("./alchemy");
+const { parallel_alpha_contract, provider } = require("./alchemy");
 const cards = require("./data/cards.json");
 const addreses = require("./data/known_address.json");
 const R = require("ramda");
@@ -19,10 +19,40 @@ client.once("ready", async () => {
 // Login to Discord with your client's token
 client.login(process.env.DISCORD_TOKEN);
 
+async function getTxnValue(hash) {
+  const txn = await provider.getTransaction(hash);
+  return txn.value;
+}
+
+async function makeFields(operartor, from, to, res) {
+  return [
+    {
+      name: operartor === from ? "From & Operartor" : "From",
+      value: from,
+    },
+    {
+      name: operartor === to ? "To & Operartor" : "To",
+      value: `[${to}](https://etherscan.io/address/${to})`,
+    },
+    operartor === to || operartor === from
+      ? null
+      : {
+          name: "Operator",
+          value: addreses[operartor] ?? operartor,
+        },
+    addreses[operartor] !== "Opensea"
+      ? null
+      : {
+          name: "Value",
+          value: await getTxnValue(res.transactionHash),
+        },
+  ].filter((it) => !!it);
+}
+
 async function listenToTransferBatch(channel) {
   parallel_alpha_contract.on(
     "TransferBatch",
-    (operartor, from, to, ids, values, res) => {
+    async (operartor, from, to, ids, values, res) => {
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
         .setTitle("Transfer batch")
@@ -32,17 +62,7 @@ async function listenToTransferBatch(channel) {
             .map((id, i) => `${values[i]} ${cards[id].name}`)
             .join(", ")}`
         )
-        .addFields(
-          { name: "From", value: from },
-          {
-            name: "To",
-            value: to,
-          },
-          {
-            name: "Operator",
-            value: addreses[operartor] ?? operartor,
-          }
-        )
+        .addFields(await makeFields(operartor, from, to, res))
         .setTimestamp();
 
       channel.send({ embeds: [exampleEmbed] });
@@ -59,17 +79,7 @@ async function listenToTransferSingle(channel) {
         .setTitle("Transfer single")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(`${cards[id].name}`)
-        .addFields(
-          { name: "From", value: from },
-          {
-            name: "To",
-            value: to,
-          },
-          {
-            name: "Operator",
-            value: addreses[operartor] ?? operartor,
-          }
-        )
+        .addFields(makeFields(operartor, from, to, res))
         .setImage(cards[id]?.image)
         .setTimestamp();
 
