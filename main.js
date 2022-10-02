@@ -5,6 +5,7 @@ const {
   listenToTransferBatch,
   listenToTransferSingle,
 } = require("./src/parallel_transfer.js");
+const { provider } = require("./src/alchemy.js");
 
 const express = require("express");
 const app = express();
@@ -12,6 +13,22 @@ app.use(express.json());
 const port = process.env.PORT || 3001;
 
 app.get("/", (req, res) => res.send("live"));
+
+app.get("/transaction", async (req, res) => {
+  if (req.query.hash) {
+    res.send(await provider.getTransaction(req.query.hash));
+  } else {
+    res.send({ error: "Hash not found" });
+  }
+});
+
+app.get("/transactionReceipt", async (req, res) => {
+  if (req.query.hash) {
+    res.send(await provider.getTransactionReceipt(req.query.hash));
+  } else {
+    res.send({ error: "Hash not found" });
+  }
+});
 
 app.post("/webhook", async (req, res) => {
   const channel = await client.channels.fetch(process.env.CHANNEL_WEBHOOK);
