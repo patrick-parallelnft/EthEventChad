@@ -52,8 +52,6 @@ client.once("ready", async () => {
 
   listenToTransferBatch(channel);
   listenToTransferSingle(channel);
-  // mockTransferSingle(channel);
-  // mockTransferBatch(channel);
 });
 
 // Login to Discord with your client's token
