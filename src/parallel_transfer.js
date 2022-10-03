@@ -77,18 +77,23 @@ async function listenToTransferBatch(channel) {
     "TransferBatch",
     async (operartor, from, to, ids, values, res) => {
       const fields = await makeFields(operartor, from, to, res);
+      const count = R.sum(values);
 
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
         .setTitle("Transfer batch")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(
-          `${bold(`${R.sum(values)} cards:`)}\n${ids
+          `${count === 1 ? "" : bold(`${count} cards:`) + "\n"} ${ids
             .map((id, i) => `${values[i]} ${cards[id].name}`)
             .join(", ")}`
         )
         .addFields(...fields)
         .setTimestamp();
+
+      if (count === 1) {
+        exampleEmbed.setImage(cards[ids[0]]?.image);
+      }
 
       channel.send({ embeds: [exampleEmbed] });
     }
@@ -138,8 +143,42 @@ async function mockTransferSingle(channel) {
   channel.send({ embeds: [exampleEmbed] });
 }
 
+async function mockTransferBatch(channel) {
+  const operartor = "0x1E0049783F008A0085193E00003D00cd54003c71";
+  const from = "0x234";
+  const to = "0x123";
+  const ids = [9];
+  const values = [1];
+  const res = {
+    transactionHash:
+      "0x44fb3d62b212cde8ad608822654c34c2eb5d3e6e9b4a573ff8fe8dbbcac44960",
+  };
+
+  const fields = await makeFields(operartor, from, to, res);
+  const count = R.sum(values);
+
+  const exampleEmbed = new EmbedBuilder()
+    .setColor(0x0099ff)
+    .setTitle("Transfer batch")
+    .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
+    .setDescription(
+      `${count === 1 ? "" : bold(`${count} cards:`) + "\n"} ${ids
+        .map((id, i) => `${values[i]} ${cards[id].name}`)
+        .join(", ")}`
+    )
+    .addFields(...fields)
+    .setTimestamp();
+
+  if (count === 1) {
+    exampleEmbed.setImage(cards[ids[0]]?.image);
+  }
+
+  channel.send({ embeds: [exampleEmbed] });
+}
+
 module.exports = {
   listenToTransferBatch,
   listenToTransferSingle,
   mockTransferSingle,
+  mockTransferBatch,
 };
