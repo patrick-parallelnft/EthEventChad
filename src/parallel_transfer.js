@@ -7,13 +7,9 @@ const ethers = require("ethers");
 
 const WETH = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2";
 const USDC = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
+const OPENSEA_BULK_TRANFSER = "0x0000000000c2d145a2526bD8C716263bFeBe1A72";
 
 // value could be 0 if paid by WETH
-async function getTxnValue(hash) {
-  const txn = await provider.getTransaction(hash);
-  return ethers.utils.formatEther(txn.value);
-}
-
 async function makeFields(operartor, from, to, res) {
   const fields = [
     {
@@ -45,12 +41,16 @@ async function makeFields(operartor, from, to, res) {
 }
 
 async function getOpenseaPrice(res) {
-  const ethValue = await getTxnValue(res.transactionHash);
+  const txn = await provider.getTransaction(res.transactionHash);
+  const ethValue = ethers.utils.formatEther(txn.value);
+
   let wethValue = 0;
   let usdcValue = 0;
   let price = "Failed to fetch price";
 
-  if (Number.parseFloat(ethValue) === 0) {
+  if (txn.to === OPENSEA_BULK_TRANFSER || Number.parseFloat(ethValue) > 0) {
+    price = OPENSEA_BULK_TRANFSER ? "Opensea bulk transfer" : `${ethValue} Ξ`;
+  } else {
     const receipt = await provider.getTransactionReceipt(res.transactionHash);
     const wethLogs = receipt.logs.filter((it) => it.address === WETH);
 
@@ -65,8 +65,6 @@ async function getOpenseaPrice(res) {
       usdcValue = Number.parseInt(usdcLogs[0].data) / 1e6;
       price = `${usdcValue} USDC`;
     }
-  } else {
-    price = `${ethValue} Ξ`;
   }
 
   return price;
