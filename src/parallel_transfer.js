@@ -46,28 +46,30 @@ async function getOpenseaPrice(res) {
 
   let wethValue = 0;
   let usdcValue = 0;
-  let price = "Failed to fetch price";
+  let valueLabel = "Failed to fetch price";
 
-  if (txn.to === OPENSEA_BULK_TRANFSER || Number.parseFloat(ethValue) > 0) {
-    price = OPENSEA_BULK_TRANFSER ? "Opensea bulk transfer" : `${ethValue} Ξ`;
+  if (Number.parseFloat(ethValue) > 0) {
+    valueLabel = `${ethValue} Ξ`;
+  } else if (txn.to === OPENSEA_BULK_TRANFSER) {
+    valueLabel = "Opensea bulk transfer";
   } else {
     const receipt = await provider.getTransactionReceipt(res.transactionHash);
     const wethLogs = receipt.logs.filter((it) => it.address === WETH);
 
     if (wethLogs.length > 0) {
       wethValue = Number.parseInt(wethLogs[0].data) / 1e18;
-      price = `${wethValue} WETH`;
+      valueLabel = `${wethValue} WETH`;
     }
 
     const usdcLogs = receipt.logs.filter((it) => it.address === USDC);
 
     if (usdcLogs.length > 0) {
       usdcValue = Number.parseInt(usdcLogs[0].data) / 1e6;
-      price = `${usdcValue} USDC`;
+      valueLabel = `${usdcValue} USDC`;
     }
   }
 
-  return price;
+  return valueLabel;
 }
 
 async function listenToTransferBatch(channel) {
@@ -125,7 +127,7 @@ async function mockTransferSingle(channel) {
   const id = 9;
   const res = {
     transactionHash:
-      "0xea4daf5f4939967b8b2dad342b20d774d06f472006912449f7a6c1f6305aa5d3",
+      "0x8eeeb92d6a9b0b99de850c457f542f35d11e9eec75b203249a80dcf3e0b8cf41",
   };
 
   const fields = await makeFields(operartor, from, to, res);
