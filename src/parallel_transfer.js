@@ -10,19 +10,21 @@ const USDC = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
 const OPENSEA_BULK_TRANFSER = "0x0000000000c2d145a2526bD8C716263bFeBe1A72";
 
 // value could be 0 if paid by WETH
-async function makeFields(operartor, from, to, res) {
+async function makeFields(operartor, maker, taker, res) {
   const fields = [
     {
-      name: operartor === from ? "From & Operartor" : "From",
+      name: operartor === maker ? "From & Operartor" : "From",
       value: `[${
-        addreses[from] || from
-      }](https://etherscan.io/address/${from})`,
+        addreses[maker] || maker
+      }](https://etherscan.io/address/${maker})`,
     },
     {
-      name: operartor === to ? "To & Operartor" : "To",
-      value: `[${addreses[to] || to}](https://etherscan.io/address/${to})`,
+      name: operartor === taker ? "To & Operartor" : "To",
+      value: `[${
+        addreses[taker] || taker
+      }](https://etherscan.io/address/${taker})`,
     },
-    operartor === to || operartor === from
+    operartor === taker || operartor === maker
       ? null
       : {
           name: "Operator",
@@ -34,13 +36,13 @@ async function makeFields(operartor, from, to, res) {
       ? null
       : {
           name: "Value",
-          value: await getOpenseaPrice(res),
+          value: await getOpenseaPrice(res, taker),
         },
   ].filter((it) => !!it);
   return fields;
 }
 
-async function getOpenseaPrice(res) {
+async function getOpenseaPrice(res, taker) {
   const txn = await provider.getTransaction(res.transactionHash);
   const ethValue = ethers.utils.formatEther(txn.value);
 
@@ -54,7 +56,12 @@ async function getOpenseaPrice(res) {
     valueLabel = "Opensea bulk transfer";
   } else {
     const receipt = await provider.getTransactionReceipt(res.transactionHash);
-    const wethLogs = receipt.logs.filter((it) => it.address === WETH);
+    const wethLogs = receipt.logs.filter(
+      (it) =>
+        it.address === WETH &&
+        it.topics[1].toLowerCase().includes(taker.substring(2).toLowerCase()) &&
+        it.topics[2].toLowerCase().includes(txn.from.substring(2).toLowerCase())
+    );
 
     if (wethLogs.length > 0) {
       wethValue = Number.parseInt(wethLogs[0].data) / 1e18;
@@ -122,12 +129,12 @@ async function listenToTransferSingle(channel) {
 
 async function mockTransferSingle(channel) {
   const operartor = "0x1E0049783F008A0085193E00003D00cd54003c71";
-  const from = "0x234";
-  const to = "0x123";
-  const id = 9;
+  const from = "0x15756a5fbe237e5d8644aa862b86501c4c6f242b";
+  const to = "0x6300a843dbfc8f328da7db5b27cc50c796b3eca8";
+  const id = 10464;
   const res = {
     transactionHash:
-      "0x8eeeb92d6a9b0b99de850c457f542f35d11e9eec75b203249a80dcf3e0b8cf41",
+      "0xe6c161ee57eb3ab089330469f76941bf6192234ff162edbe639d7b89e2c190e8",
   };
 
   const fields = await makeFields(operartor, from, to, res);
