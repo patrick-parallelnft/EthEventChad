@@ -68,7 +68,12 @@ async function getOpenseaPrice(res, taker) {
       valueLabel = `${wethValue} WETH`;
     }
 
-    const usdcLogs = receipt.logs.filter((it) => it.address === USDC);
+    const usdcLogs = receipt.logs.filter(
+      (it) =>
+        it.address === USDC &&
+        it.topics[1].toLowerCase().includes(taker.substring(2).toLowerCase()) &&
+        it.topics[2].toLowerCase().includes(txn.from.substring(2).toLowerCase())
+    );
 
     if (usdcLogs.length > 0) {
       usdcValue = Number.parseInt(usdcLogs[0].data) / 1e6;
