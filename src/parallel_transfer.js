@@ -32,17 +32,17 @@ async function makeFields(operartor, maker, taker, res) {
             addreses[operartor] || operartor
           }](https://etherscan.io/address/${operartor})`,
         },
-    addreses[operartor] !== "Opensea"
+    addreses[operartor] !== "Opensea" && addreses[operartor] !== "ZRX"
       ? null
       : {
           name: "Value",
-          value: await getOpenseaPrice(res, taker),
+          value: await getPrice(res, taker),
         },
   ].filter((it) => !!it);
   return fields;
 }
 
-async function getOpenseaPrice(res, taker) {
+async function getPrice(res, taker) {
   const txn = await provider.getTransaction(res.transactionHash);
   const ethValue = ethers.utils.formatEther(txn.value);
 
