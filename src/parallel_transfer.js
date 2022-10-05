@@ -35,14 +35,14 @@ async function makeFields(operartor, maker, taker, res) {
     addreses[operartor] !== "Opensea" && addreses[operartor] !== "ZRX"
       ? null
       : {
-          name: "Value",
-          value: await getPrice(res, taker),
+          name: "Txn value",
+          value: await getPrice(res, taker, maker),
         },
   ].filter((it) => !!it);
   return fields;
 }
 
-async function getPrice(res, taker) {
+async function getPrice(res, taker, maker) {
   const txn = await provider.getTransaction(res.transactionHash);
   const ethValue = ethers.utils.formatEther(txn.value);
 
@@ -53,15 +53,20 @@ async function getPrice(res, taker) {
   if (Number.parseFloat(ethValue) > 0) {
     valueLabel = `${ethValue} Ξ`;
   } else if (txn.to === OPENSEA_BULK_TRANFSER) {
-    valueLabel = "Opensea bulk transfer";
+    valueLabel = "0 Ξ (Opensea bulk transfer)";
   } else {
     const receipt = await provider.getTransactionReceipt(res.transactionHash);
-    const wethLogs = receipt.logs.filter(
-      (it) =>
+    const wethLogs = receipt.logs.filter((it) => {
+      const party1 = it.topics[1].toLowerCase();
+      const party2 = it.topics[2].toLowerCase();
+      const bothParty = party1 + party2;
+
+      return (
         it.address === WETH &&
-        it.topics[1].toLowerCase().includes(taker.substring(2).toLowerCase()) &&
-        it.topics[2].toLowerCase().includes(txn.from.substring(2).toLowerCase())
-    );
+        bothParty.includes(maker.substring(2).toLowerCase()) &&
+        bothParty.includes(taker.substring(2).toLowerCase())
+      );
+    });
 
     if (wethLogs.length > 0) {
       wethValue = Number.parseInt(wethLogs[0].data) / 1e18;
@@ -156,14 +161,14 @@ async function mockTransferSingle(channel) {
 }
 
 async function mockTransferBatch(channel) {
-  const operartor = "0x1E0049783F008A0085193E00003D00cd54003c71";
-  const from = "0x234";
-  const to = "0x123";
-  const ids = [9];
+  const operartor = "0x7EeFBd48FD63d441Ec7435D024EC7c5131019ADd";
+  const from = "0x3462d4f128E214F09a5483aB2613FbF13Cd4e57E";
+  const to = "0x681B1f83C2fbbAc0424eCd7cc9935cEA93c63781";
+  const ids = [10681];
   const values = [1];
   const res = {
     transactionHash:
-      "0x44fb3d62b212cde8ad608822654c34c2eb5d3e6e9b4a573ff8fe8dbbcac44960",
+      "0x3040a54fcb1da6915101f911704ae74b76298ef2843b25ea99437a4aeb088c88",
   };
 
   const fields = await makeFields(operartor, from, to, res);
