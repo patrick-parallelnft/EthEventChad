@@ -102,7 +102,10 @@ async function listenToTransferBatch(channel) {
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(
           `${count === 1 ? "" : bold(`${count} cards:`) + "\n"} ${ids
-            .map((id, i) => `${values[i]} ${cards[id].name}`)
+            .map(
+              (id, i) =>
+                `${values[i]} ${cards[id]?.name || `unknown card ${id}`}`
+            )
             .join(", ")}`
         )
         .addFields(...fields)
@@ -127,7 +130,7 @@ async function listenToTransferSingle(channel) {
         .setColor(0x0099ff)
         .setTitle("Transfer single")
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
-        .setDescription(`${cards[id].name}`)
+        .setDescription(`${cards[id]?.name || `unknown card ${id}`}`)
         .addFields(...fields)
         .setImage(cards[id]?.image)
         .setTimestamp();
@@ -152,7 +155,7 @@ async function mockTransferSingle(channel) {
     .setColor(0x0099ff)
     .setTitle("Transfer single")
     .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
-    .setDescription(`${cards[id].name}`)
+    .setDescription(`${cards[id]?.name || `unknown card ${id}`}`)
     .addFields(...fields)
     .setImage(cards[id]?.image)
     .setTimestamp();
@@ -180,7 +183,9 @@ async function mockTransferBatch(channel) {
     .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
     .setDescription(
       `${count === 1 ? "" : bold(`${count} cards:`) + "\n"} ${ids
-        .map((id, i) => `${values[i]} ${cards[id].name}`)
+        .map(
+          (id, i) => `${values[i]} ${cards[id]?.name || `unknown card ${id}`}`
+        )
         .join(", ")}`
     )
     .addFields(...fields)
