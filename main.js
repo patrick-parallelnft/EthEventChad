@@ -32,7 +32,7 @@ app.get("/transactionReceipt", async (req, res) => {
 
 app.post("/webhook", async (req, res) => {
   const channel = await client.channels.fetch(process.env.CHANNEL_WEBHOOK);
-  channel.send(`Webhook body: ${JSON.stringify(req.body)}`);
+  channel.send(JSON.stringify(req.body));
   res.send(req.body);
 });
 
