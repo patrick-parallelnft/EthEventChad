@@ -98,9 +98,10 @@ async function listenToTransferBatch(channel) {
       const fields = await makeFields(operartor, from, to, res);
       const count = R.sum(values);
 
+      const txnCount = cache.addTransaction(res.transactionHash);
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
-        .setTitle("Transfer batch")
+        .setTitle(`Transfer batch (#${txnCount})`)
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(
           `${count === 1 ? "" : bold(`${count} cards:`) + "\n"} ${ids
@@ -128,9 +129,10 @@ async function listenToTransferSingle(channel) {
     async (operartor, from, to, id, value, res) => {
       const fields = await makeFields(operartor, from, to, res);
 
+      const txnCount = cache.addTransaction(res.transactionHash);
       const exampleEmbed = new EmbedBuilder()
         .setColor(0x0099ff)
-        .setTitle("Transfer single")
+        .setTitle(`Transfer single (#${txnCount})`)
         .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
         .setDescription(`${cards[id]?.name || `unknown card ${id}`}`)
         .addFields(...fields)
@@ -177,12 +179,13 @@ async function mockTransferBatch(channel) {
       "0x3040a54fcb1da6915101f911704ae74b76298ef2843b25ea99437a4aeb088c88",
   };
 
+  const txnCount = cache.addTransaction(res.transactionHash);
   const fields = await makeFields(operartor, from, to, res);
   const count = R.sum(values);
 
   const exampleEmbed = new EmbedBuilder()
     .setColor(0x0099ff)
-    .setTitle("Transfer batch")
+    .setTitle(`Transfer batch (#${txnCount})`)
     .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
     .setDescription(
       `${count === 1 ? "" : bold(`${count} cards:`) + "\n"} ${ids
