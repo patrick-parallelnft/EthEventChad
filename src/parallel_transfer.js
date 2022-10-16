@@ -4,6 +4,8 @@ const cards = require("../data/cards.json");
 const addreses = require("../data/known_address.json");
 const R = require("ramda");
 const ethers = require("ethers");
+const TimedTransactionCache = require("./timed_transaction_cache.js");
+const cache = new TimedTransactionCache();
 
 const WETH = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2";
 const USDC = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
@@ -150,10 +152,11 @@ async function mockTransferSingle(channel) {
       "0xe6c161ee57eb3ab089330469f76941bf6192234ff162edbe639d7b89e2c190e8",
   };
 
+  const txnCount = cache.addTransaction(res.transactionHash);
   const fields = await makeFields(operartor, from, to, res);
   const exampleEmbed = new EmbedBuilder()
     .setColor(0x0099ff)
-    .setTitle("Transfer single")
+    .setTitle(`Transfer single (#${txnCount})`)
     .setURL(`https://etherscan.io/tx/${res.transactionHash}`)
     .setDescription(`${cards[id]?.name || `unknown card ${id}`}`)
     .addFields(...fields)
