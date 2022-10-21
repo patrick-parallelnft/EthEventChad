@@ -5,7 +5,6 @@ class TimedTransactionCache {
 
   addTransaction(txn) {
     this.purge();
-    console.log("this.cache", this.cache);
     const keys = Object.keys(this.cache);
     if (keys.includes(txn)) {
       this.cache[txn].count++;

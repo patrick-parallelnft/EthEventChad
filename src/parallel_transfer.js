@@ -59,12 +59,14 @@ async function getPrice(res, taker, maker) {
   } else {
     const receipt = await provider.getTransactionReceipt(res.transactionHash);
     const wethLogs = receipt.logs.filter((it) => {
-      const party1 = it.topics[1].toLowerCase();
-      const party2 = it.topics[2].toLowerCase();
+      const party1 = it.topics[1]?.toLowerCase();
+      const party2 = it.topics[2]?.toLowerCase();
       const bothParty = party1 + party2;
 
       return (
         it.address === WETH &&
+        party1 &&
+        party2 &&
         bothParty.includes(maker.substring(2).toLowerCase()) &&
         bothParty.includes(taker.substring(2).toLowerCase())
       );
@@ -78,8 +80,12 @@ async function getPrice(res, taker, maker) {
     const usdcLogs = receipt.logs.filter(
       (it) =>
         it.address === USDC &&
-        it.topics[1].toLowerCase().includes(taker.substring(2).toLowerCase()) &&
-        it.topics[2].toLowerCase().includes(txn.from.substring(2).toLowerCase())
+        it.topics[1]
+          ?.toLowerCase()
+          .includes(taker.substring(2).toLowerCase()) &&
+        it.topics[2]
+          ?.toLowerCase()
+          .includes(txn.from.substring(2).toLowerCase())
     );
 
     if (usdcLogs.length > 0) {
