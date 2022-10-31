@@ -6,6 +6,7 @@ const {
   listenToTransferSingle,
 } = require("./src/parallel_transfer.js");
 const { provider } = require("./src/alchemy.js");
+const { handle_webhook } = require("./src/webhook_handler");
 
 const express = require("express");
 const app = express();
@@ -32,8 +33,8 @@ app.get("/transactionReceipt", async (req, res) => {
 
 app.post("/webhook", async (req, res) => {
   const channel = await client.channels.fetch(process.env.CHANNEL_WEBHOOK);
-  channel.send(JSON.stringify(req.body));
-  res.send(req.body);
+  handle_webhook(channel, req.body);
+  res.send({ status: "ok" });
 });
 
 app.listen(port, () =>
