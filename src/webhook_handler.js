@@ -21,14 +21,14 @@ const handle_webhook = (channel, message) => {
       fields.push({
         name: "from",
         value: `[${
-          addreses[a.fromAddress] || a.fromAddress
+          addreses[a.fromAddress?.toLowerCase()] || a.fromAddress?.toLowerCase()
         }](https://etherscan.io/address/${a.fromAddress})`,
       });
     a.toAddress &&
       fields.push({
         name: "to",
         value: `[${
-          addreses[a.toAddress] || a.toAddress
+          addreses[a.toAddress?.toLowerCase()] || a.toAddress?.toLowerCase()
         }](https://etherscan.io/address/${a.toAddress})`,
       });
     a.asset &&

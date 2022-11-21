@@ -17,13 +17,13 @@ async function makeFields(operartor, maker, taker, res) {
     {
       name: operartor === maker ? "From & Operartor" : "From",
       value: `[${
-        addreses[maker] || maker
+        addreses[maker?.toLowerCase()] || maker?.toLowerCase()
       }](https://etherscan.io/address/${maker})`,
     },
     {
       name: operartor === taker ? "To & Operartor" : "To",
       value: `[${
-        addreses[taker] || taker
+        addreses[taker?.toLowerCase()] || taker?.toLowerCase()
       }](https://etherscan.io/address/${taker})`,
     },
     operartor === taker || operartor === maker
@@ -31,10 +31,11 @@ async function makeFields(operartor, maker, taker, res) {
       : {
           name: "Operator",
           value: `[${
-            addreses[operartor] || operartor
+            addreses[operartor?.toLowerCase()] || operartor?.toLowerCase()
           }](https://etherscan.io/address/${operartor})`,
         },
-    addreses[operartor] !== "Opensea" && addreses[operartor] !== "ZRX"
+    addreses[operartor?.toLowerCase()] !== "Opensea" &&
+    addreses[operartor?.toLowerCase()] !== "ZRX"
       ? null
       : {
           name: "Txn value",
