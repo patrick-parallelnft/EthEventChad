@@ -4,7 +4,7 @@ const addreses = require("../data/known_address.json");
 const handle_webhook = (channel, message) => {
   const activity = message.event?.activity;
 
-  const fields = [
+  let fields = [
     {
       name: "Event type",
       value: message.type,
@@ -51,6 +51,10 @@ const handle_webhook = (channel, message) => {
         name: "ERC1155",
         value: JSON.stringify(a.erc1155Metadata),
       });
+  }
+
+  if (fields.length > 25) {
+    fields = fields.splice(0, 25);
   }
 
   const exampleEmbed = new EmbedBuilder()
