@@ -5,6 +5,7 @@ const {
   listenToTransferBatch,
   listenToTransferSingle,
 } = require("./src/parallel_transfer.js");
+const { fetch_parallel } = require("./src/blur.js");
 const { provider } = require("./src/alchemy.js");
 const { handle_webhook } = require("./src/webhook_handler");
 
@@ -49,8 +50,9 @@ client.once("ready", async () => {
     process.env.CHANNEL_PARALLEL_TRANSFER_EVENT
   );
 
-  listenToTransferBatch(channel);
-  listenToTransferSingle(channel);
+  // listenToTransferBatch(channel);
+  // listenToTransferSingle(channel);
+  fetch_parallel(channel);
 });
 
 client.login(process.env.DISCORD_TOKEN);
